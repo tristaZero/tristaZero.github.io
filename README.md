@@ -11,6 +11,9 @@
 
 ### Education
 
+- Bachelor degree, major in Software developing, Sep.2010-Jun.2014, Hebei Normal University
+- Master degree, major in Visual pattern retrieval and Cloud computing, Sep.2014-Jun.2016, Dalian Maritime University
+
 ### Career
 
 ### Activities
