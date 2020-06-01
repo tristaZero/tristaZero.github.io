@@ -16,7 +16,7 @@
 
 ### ▶ Career
 
-&nbsp;&nbsp; **Senior DBA at JD.com**
+&nbsp;&nbsp;&nbsp;&nbsp; **Senior DBA at JD.com**
 - As the PMC for Distributed Database Middleware Platform (Apache ShardingSphere) 
 - As the core developer for Distributed Transaction Middleware Platform (JDTX, None-OpenSource)
 - Take charge of Automated Database Management Platform (MySQL, Python, DevOps)
@@ -25,7 +25,7 @@
 ### ▶ Activities
 ### ▶ Articles
 
-&nbsp;&nbsp; **Experience**
+&nbsp;&nbsp;&nbsp;&nbsp; **Experience**
 - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
@@ -33,7 +33,7 @@
 - [Past event-The co-meetup of Apache ShardingSSphere and Apache DolphinScheduler(Incubating)](https://mp.weixin.qq.com/s/PZ2vOMsyO_SbBBelMsPAFA)
 - [Past event-A talking in PostgreSQL Chine conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
 
-&nbsp;&nbsp; **Technique**
+&nbsp;&nbsp;&nbsp;&nbsp; **Technique**
 - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
