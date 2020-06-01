@@ -11,13 +11,18 @@
 
 ### Education
 
-- **Bachelor degree**, major in Software developing, Sep.2010-Jun.2014, Hebei Normal University
 - **Master degree**, major in Visual pattern retrieval and Cloud computing, Sep.2014-Jun.2016, Dalian Maritime University
+- **Bachelor degree**, major in Software developing, Sep.2010-Jun.2014, Hebei Normal University
 
 ### Career
-
+- Senior DBA at JD.com
+  - As the PMC for Distributed Database Middleware Platform (Apache ShardingSphere) 
+  - As the core developer for Distributed Transaction Middleware Platform (JDTX, None-OpenSource)
+  - Take charge of Automated Database Management Platform (MySQL, Python, DevOps)
+  - Data source management for MySQL (Data modeling, Recovery, Back up, Performance and so on)
 
 ### Activities
+
 
 ### Articles
 
