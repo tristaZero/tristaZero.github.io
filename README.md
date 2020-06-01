@@ -22,7 +22,7 @@
 - Data source management for MySQL (Data modeling, Recovery, Back up, Performance and so on)
 
 ### ▶ Activities
-### Articles
+### ▶ Articles
 **Experience**
 - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
