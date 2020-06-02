@@ -32,16 +32,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp; **2019**
 - 2019中国开源峰会，"Apache ShardingSphere分布式数据库中间件平台架构进化论"
 - Apache DolphinScheduler & Apache ShardingSphere co-meetup，主题分享
-- 第九届PostgreSQL中国技术大会，"京东数科分布式事务JDTX与数据库中间件Apache ShardingSphere的集成之道" + 主持
+- 第九届PostgreSQL中国技术大会，"京东数科分布式事务JDTX与数据库中间件Apache ShardingSphere的集成之道" + 主会场主持
 - 2019中国开源年会，"Apache ShardingSphere开源生态圈从0到1的演进之路"
-- 2019中国系统架构师师大会，"ApacheShardingSphere数据平台演进之路"
+- 2019中国系统架构师大会，"ApacheShardingSphere数据平台演进之路"
 - 2019 HUAWEI Connection + Apache meetup, "解密ShardingSphere与ServiceComb联合打造的分布式事务解决方案"
 - 2019京东技术沙龙，"分布式数据库中间件在京东数科的生产实践探索"
 - 2019DBAPlus线上分享183期，"分布式数据库中间件京东实战"
 - 2019巨杉数据库Tech Day，"开源分布式数据库中间件架构剖析及应用"
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2018**
-- 2018PostgreSQL中国技术大会，"Apache ShardingSphere(Incubating)云架构演化"
+- 2018PostgreSQL中国技术大会，"Apache ShardingSphere(Incubating)云架构演化" + 主会场主持
 - IAS2018互联网架构峰会，"Apache ShardingSphere(Incubating)云架构演化"
 - 2018中国软件技术大会，"如何打造分布式数据库中间件的云架构"
 - MSUP卓越研发之路北京站，"如何打造分布式数据库中间件的云架构"
