@@ -20,9 +20,11 @@
 - As the PMC for Distributed Database Middleware Platform (Apache ShardingSphere) 
 - As the core developer for Distributed Transaction Middleware Platform (JDTX, None-OpenSource)
 - Take charge of Automated Database Management Platform (MySQL, Python, DevOps)
-- Data source management for MySQL (Data modeling, Recovery, Back up, Performance and so on)
+- Data base management for MySQL (Data modeling, Recovery, Back up, Performance and so on)
 
 ### ▶ Activities
+
+
 ### ▶ Articles
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Experience**
@@ -31,7 +33,7 @@
 - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 - [Past event-A talking in OS-CHINA conference](https://mp.weixin.qq.com/s/UaFpCMv_UI_QH4RVhJPdew)
 - [Past event-The co-meetup of Apache ShardingSSphere and Apache DolphinScheduler(Incubating)](https://mp.weixin.qq.com/s/PZ2vOMsyO_SbBBelMsPAFA)
-- [Past event-A talking in PostgreSQL Chine conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
+- [Past event-A talking in PostgreSQL China conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Technique**
 - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
@@ -41,3 +43,6 @@
 
 
 ### ▶ Video & Audio
+- [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (Audio, as the hostess)
+- [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (Video, as the speaker)
+- [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (Video, as the speaker)
