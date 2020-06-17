@@ -77,3 +77,4 @@
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (Video, as the speaker)
 - [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (Video, as the speaker)
 - [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (Audio, as the hostess)
+- [How do we build Apache ShardingSphere community（Part one）](https://www.ximalaya.com/keji/37853515/304115934) (Video, as the speaker)
