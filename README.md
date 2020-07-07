@@ -24,6 +24,7 @@
 
 ### ▶ Activities
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
+- 技术锁话在线分享，"海量数据下的NewSQL数据库生态构建"
 - OSC源创会第89期，"开源推动下Apache ShardingSphere架构演进"
 - ITPUB技术栈，"从New SQL角度看Apache ShardingSphere"
 - 京东数科开源总动员，"The first step to your Open Source journey"
@@ -78,3 +79,5 @@
 - [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (Video, as the speaker)
 - [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (Audio, as the hostess)
 - [How do we build Apache ShardingSphere community（Part one）](https://www.ximalaya.com/keji/37853515/304115934) (Video, as the speaker)
+- [How do we build Apache ShardingSphere community（Part two）](https://www.ximalaya.com/keji/37853515/308619842) (Video, as the speaker)
+- [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (Video, as the speaker)
