@@ -24,6 +24,7 @@
 
 ### ▶ Activities
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
+- TiD 2020质量竞争力大会， "互联网海量数据场景下的分布式数据库与服务治理"
 - 技术锁话在线分享，"海量数据下的NewSQL数据库生态构建"
 - OSC源创会第89期，"开源推动下Apache ShardingSphere架构演进"
 - ITPUB技术栈，"从New SQL角度看Apache ShardingSphere"
