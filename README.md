@@ -24,6 +24,7 @@
 
 ### ▶ Activities
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
+- ApacheCon @Home 2020, "Another backend storage solution for the APM system" (In English)
 - TiD 2020质量竞争力大会， "互联网海量数据场景下的分布式数据库与服务治理"
 - 技术锁话在线分享，"海量数据下的NewSQL数据库生态构建"
 - OSC源创会第89期，"开源推动下Apache ShardingSphere架构演进"
@@ -83,3 +84,4 @@
 - [How do we build Apache ShardingSphere community（Part two）](https://www.ximalaya.com/keji/37853515/308619842) (Audio, as the speaker)
 - [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (Video, as the speaker)
 - [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0)(Audio, as the hostess)
+- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2)(Video, as the speaker, In English)
