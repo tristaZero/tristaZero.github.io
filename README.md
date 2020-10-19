@@ -24,6 +24,7 @@
 
 ### ▶ Activities
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
+- Apache Roadshow China 2020, "数据库化的分布式数据库中间件生态圈极简使用策略"
 - ApacheCon @Home 2020, "Another backend storage solution for the APM system" (In English)
 - TiD 2020质量竞争力大会， "互联网海量数据场景下的分布式数据库与服务治理"
 - 技术锁话在线分享，"海量数据下的NewSQL数据库生态构建"
