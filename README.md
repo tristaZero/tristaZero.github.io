@@ -24,6 +24,8 @@
 
 ### ▶ Activities
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
+- [开源软件供应链2020峰会](https://isrc.iscas.ac.cn/summer2020/#/summitmeeting), "Apache ShardingSphere分布式数据库生态圈架构演进"
+- PGConf.Asia (PostgreSQL Conference Asia), [构建PostgreSQL的分布式数据库中间件生态体系](https://mp.weixin.qq.com/s/7RpKbWPytzMH9VSgjxxCoA)
 - Apache Roadshow China 2020, "数据库化的分布式数据库中间件生态圈极简使用策略"
 - ApacheCon @Home 2020, "Another backend storage solution for the APM system" (In English)
 - TiD 2020质量竞争力大会， "互联网海量数据场景下的分布式数据库与服务治理"
@@ -86,3 +88,4 @@
 - [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (Video, as the speaker)
 - [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0)(Audio, as the hostess)
 - [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2)(Video, as the speaker, In English)
+- [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0)(Audio, as the speaker)
