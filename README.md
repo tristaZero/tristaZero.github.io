@@ -24,6 +24,7 @@
 
 ### ▶ Activities
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
+- [2020中国软件技术大会](http://www.softcon.cn), "分布式数据库中间件的数据库化架构演进"
 - [开源软件供应链2020峰会](https://isrc.iscas.ac.cn/summer2020/#/summitmeeting), "Apache ShardingSphere分布式数据库生态圈架构演进"
 - PGConf.Asia (PostgreSQL Conference Asia), [构建PostgreSQL的分布式数据库中间件生态体系](https://mp.weixin.qq.com/s/7RpKbWPytzMH9VSgjxxCoA)
 - Apache Roadshow China 2020, "数据库化的分布式数据库中间件生态圈极简使用策略"
