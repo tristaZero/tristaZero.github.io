@@ -24,6 +24,8 @@
 
 ### ▶ Activities
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
+- 被评为[2020中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
+- [开放原子开源基金会2020年度峰会](https://segmentfault.com/area/openatomcon-2020), "循序渐进打造多样化活跃开源社区"
 - [2020中国软件技术大会](http://www.softcon.cn), "分布式数据库中间件的数据库化架构演进"
 - [开源软件供应链2020峰会](https://isrc.iscas.ac.cn/summer2020/#/summitmeeting), "Apache ShardingSphere分布式数据库生态圈架构演进"
 - PGConf.Asia (PostgreSQL Conference Asia), [构建PostgreSQL的分布式数据库中间件生态体系](https://mp.weixin.qq.com/s/7RpKbWPytzMH9VSgjxxCoA)
