@@ -83,17 +83,17 @@
 
 
 ### ▶ Audio
-- [How do we build Apache ShardingSphere community（Part one）](https://www.ximalaya.com/keji/37853515/304115934) (Audio, as the guest)
-- [How do we build Apache ShardingSphere community（Part two）](https://www.ximalaya.com/keji/37853515/308619842) (Audio, as the guest)
-- [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0)(Audio, as the guest)
-- [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (Audio, as the hostess)
-- [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0)(Audio, as the hostess)
-- [The experience of Summer code 2020](https://mp.weixin.qq.com/s/4IMWAyH0yMgzXRX0a-_00w)(Audio, as the hostess)
-- [The Apache incubator journey of Apache ECharts](https://mp.weixin.qq.com/s/B1Pr7f4ncbfaivTTS8-Xyg)(Audio, as the hostess)
-- [How do non-code contributors interact with OpenSource community](https://mp.weixin.qq.com/s/4fpJSfvHjE9WKIqeGpkEKQ)(Audio, as the hostess)
+- [How do we build Apache ShardingSphere community（Part one）](https://www.ximalaya.com/keji/37853515/304115934) (As the guest)
+- [How do we build Apache ShardingSphere community（Part two）](https://www.ximalaya.com/keji/37853515/308619842) (As the guest)
+- [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0)(As the guest)
+- [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (As the hostess)
+- [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0)(As the hostess)
+- [The experience of Summer code 2020](https://mp.weixin.qq.com/s/4IMWAyH0yMgzXRX0a-_00w)(As the hostess)
+- [The Apache incubator journey of Apache ECharts](https://mp.weixin.qq.com/s/B1Pr7f4ncbfaivTTS8-Xyg)(As the hostess)
+- [How do non-code contributors interact with OpenSource community](https://mp.weixin.qq.com/s/4fpJSfvHjE9WKIqeGpkEKQ)(As the hostess)
 
 ### ▶ Video
-- [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (Video, as the speaker)
-- [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (Video, as the speaker)
-- [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (Video, as the speaker)
-- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2)(Video, as the speaker, In English)
+- [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (As the speaker)
+- [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (As the speaker)
+- [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (As the speaker)
+- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2)(As the speaker, In English)
