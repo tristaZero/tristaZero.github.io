@@ -81,7 +81,6 @@
 - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
 - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation)
 
-
 ### ▶ Audio
 - [How do we build Apache ShardingSphere community（Part one）](https://www.ximalaya.com/keji/37853515/304115934) (As the guest)
 - [How do we build Apache ShardingSphere community（Part two）](https://www.ximalaya.com/keji/37853515/308619842) (As the guest)
