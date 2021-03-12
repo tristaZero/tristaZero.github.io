@@ -23,6 +23,9 @@
 - Data base management for MySQL (Data modeling, Recovery, Back up, Performance and so on)
 
 ### ▶ Activities
+&nbsp;&nbsp;&nbsp;&nbsp; **2021**
+- [借力Apache ShardingSphere，打造企业分布式数据库平台生态](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
+
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
 - 被评为[2020中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
 - [开放原子开源基金会2020年度峰会](https://segmentfault.com/area/openatomcon-2020), "循序渐进打造多样化活跃开源社区"
