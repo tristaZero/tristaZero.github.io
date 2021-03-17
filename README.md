@@ -6,7 +6,7 @@
 | :-----------------------------: | :------------------------: |
 | Chinese Name: 潘娟              | English Name: Juan Pan   |
 | Gender: Female                 | City: Beijing, China       | 
-| Job Title: Senior DBA<br>(JD.com) | Community Title: Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC |
+| Job Title: Senior DBA<br>(JD.com) | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC |
 | E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[trista86934690](https://twitter.com/trista86934690) |
 
 ### ▶ Education
