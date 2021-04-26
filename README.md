@@ -25,6 +25,7 @@
 ### ▶ Activities
 &nbsp;&nbsp;&nbsp;&nbsp; **2021**
 - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg), [借力Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)
+- [OpenTEKr开源人物专访-潘娟](https://b23.tv/el3K3A)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
 - 被评为[2020中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
