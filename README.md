@@ -6,7 +6,7 @@
 | :-----------------------------: | :------------------------: |
 | Chinese Name: 潘娟              | English Name: Juan Pan   |
 | Gender: Female                 | City: Beijing, China       | 
-| Job Title: Senior DBA<br>(JD.com) | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC |
+| Job Title: SphereEx co-founder | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC |
 | E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[trista86934690](https://twitter.com/trista86934690) |
 
 ### ▶ Education
@@ -16,7 +16,8 @@
 
 ### ▶ Career
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Senior DBA at JD.com**
+&nbsp;&nbsp;&nbsp;&nbsp; **SphereEx co-founder**
+- Senior DBA working at JD.COM
 - As the PMC for Distributed Database Middleware Platform (Apache ShardingSphere) 
 - As the core developer for Distributed Transaction Middleware Platform (JDTX, None-OpenSource)
 - Take charge of Automated Database Management Platform (MySQL, Python, DevOps)
@@ -26,6 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; **2021**
 - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg), [借力Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)
 - [OpenTEKr开源人物专访-潘娟](https://b23.tv/el3K3A)
+- [专访 SphereEx 创始团队](https://segmentfault.com/a/1190000039999206)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
 - 被评为[2020中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
