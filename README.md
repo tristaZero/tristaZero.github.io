@@ -5,8 +5,8 @@
 |                                |                           |
 | :-----------------------------: | :------------------------: |
 | Chinese Name: 潘娟              | English Name: Juan Pan   |
-| Gender: Female                 | City: Beijing, China       | 
-| Job Title: SphereEx co-founder | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC |
+| Gender: Female                 | City: Beijing, China       |
+| Job Title: SphereEx co-founder | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC & [Apache brpc](https://github.com/apache/incubator-brpc) mentor |
 | E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[trista86934690](https://twitter.com/trista86934690) |
 
 ### ▶ Education
@@ -28,6 +28,11 @@
 - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg), [借力Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)
 - [OpenTEKr开源人物专访-潘娟](https://b23.tv/el3K3A)
 - [专访 SphereEx 创始团队](https://segmentfault.com/a/1190000039999206)
+- [中国唯一一位女性 Apache Member 潘娟：我们还是要走出自己与众不同的 My Way](https://segmentfault.com/a/1190000040352390)
+- [ApacheCon Asia 2021 —— Incubator track](https://mp.weixin.qq.com/s/bADxdBh9533LZaKuRlRyUg)
+- [AWS Cloud China summit 2021](https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/), "The architecture introduction of open-source distributed database middleware ecosystem"
+- [GIAC, 全球互联网架构大会](https://giac.msup.com.cn/course?id=15253)， "Apache Sharding Sphere DB Plus 架构生态演进"
+- [全球开源技术峰会 (The global opensource technology conference)](https://gotc.oschina.net/), "如何打造数据库分布式开源生态"
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
 - 被评为[2020中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
@@ -80,6 +85,7 @@
 - [The co-meetup of Apache ShardingSSphere and Apache DolphinScheduler(Incubating)](https://mp.weixin.qq.com/s/PZ2vOMsyO_SbBBelMsPAFA)
 - [A talking in PostgreSQL China conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
 - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
+- [潘娟：循序渐进打造活跃的多元化社区](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Technique**
 - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
@@ -96,6 +102,7 @@
 - [The experience of Summer code 2020](https://mp.weixin.qq.com/s/4IMWAyH0yMgzXRX0a-_00w) (As the hostess)
 - [The Apache incubator journey of Apache ECharts](https://mp.weixin.qq.com/s/B1Pr7f4ncbfaivTTS8-Xyg) (As the hostess)
 - [How do non-code contributors interact with OpenSource community](https://mp.weixin.qq.com/s/4fpJSfvHjE9WKIqeGpkEKQ) (As the hostess)
+- [The Data Way-Vol.00 我们决定做一档陪伴工程师成长的播客](https://m.ximalaya.com/share/sound/435169174?cId=18&albumIds=51321288%2C34477950%2C20119986&uid=337295925&shrdv=oZTIywMGVFqiG-vYZW71Tz4T493I&shrh5=weixin&subType=1015&shrid=17abe7868a3a9c8&shrdh=3&shrpid=BUC3HF56UESZ6C9QHRK&commandShareId=dd58c431bdf0ebe8d07400936330ce75&shareTime=1626693200035&shareLevel=1)
 
 ### ▶ Video
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (As the speaker)
