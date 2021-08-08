@@ -6,7 +6,7 @@
 | :-----------------------------: | :------------------------: |
 | Chinese Name: 潘娟              | English Name: Juan Pan   |
 | Gender: Female                 | City: Beijing, China       |
-| Job Title: SphereEx co-founder | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC & [Apache brpc](https://github.com/apache/incubator-brpc) mentor |
+| Job Title: SphereEx co-founder | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC & [Apache brpc](https://github.com/apache/incubator-brpc) mentor & [Apache AGE](https://github.com/apache/incubator-age) mentor|
 | E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[trista86934690](https://twitter.com/trista86934690) |
 
 ### ▶ Education
@@ -86,6 +86,7 @@
 - [A talking in PostgreSQL China conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
 - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
 - [潘娟：循序渐进打造活跃的多元化社区](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
+- [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Technique**
 - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
