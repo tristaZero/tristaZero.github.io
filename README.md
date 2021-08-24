@@ -87,7 +87,7 @@
 - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
 - [潘娟：循序渐进打造活跃的多元化社区](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
 - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
-- [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef) | [学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ)
+- [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)([学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ))
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Technique**
 - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
