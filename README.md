@@ -7,7 +7,7 @@
 | Chinese Name: 潘娟              | English Name: Juan Pan   |
 | Gender: Female                 | City: Beijing, China       |
 | Job Title: SphereEx co-founder | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC & [Apache brpc](https://github.com/apache/incubator-brpc) mentor & [Apache AGE](https://github.com/apache/incubator-age) mentor|
-| E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[trista86934690](https://twitter.com/trista86934690) |
+| E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[tristaZero](https://twitter.com/tristaZero) |
 
 ### ▶ Education
 
@@ -33,6 +33,9 @@
 - [AWS Cloud China summit 2021](https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/), "The architecture introduction of open-source distributed database middleware ecosystem"
 - [GIAC, 全球互联网架构大会](https://giac.msup.com.cn/course?id=15253)， "Apache Sharding Sphere DB Plus 架构生态演进"
 - [全球开源技术峰会 (The global opensource technology conference)](https://gotc.oschina.net/), "如何打造数据库分布式开源生态"
+- [OpenInfra Days Asia 2021](https://2021.openinfra.asia/schedule.html), "The Database Governance Mechanism of ShardingSphere's Distributed Database Middleware Ecosystem"
+- [亚马逊云科技中国峰会2021](https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/), "构建云端的企业应用级分布式数据库生态"
+- [【了不起的开源开发者】线上专场](https://www.huodongxing.com/event/7613387577423?utm_source=%e4%b8%bb%e9%a1%b5&utm_medium=banner_291022504540&utm_campaign=homepage&qd=6628363043952&type=SITE_BANNER_AD_CLICK), "如何踏上成为“了不起的开发者”之路"
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
 - 被评为[2020中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
