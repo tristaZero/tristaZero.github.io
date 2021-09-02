@@ -6,7 +6,7 @@
 | :-----------------------------: | :------------------------: |
 | Chinese Name: 潘娟              | English Name: Juan Pan   |
 | Gender: Female                 | City: Beijing, China       |
-| Job Title: SphereEx co-founder | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC & [Apache brpc](https://github.com/apache/incubator-brpc) mentor & [Apache AGE](https://github.com/apache/incubator-age) mentor|
+| Job Title: SphereEx co-founder&CTO | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC & [Apache brpc](https://github.com/apache/incubator-brpc) mentor & [Apache AGE](https://github.com/apache/incubator-age) mentor|
 | E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[tristaZero](https://twitter.com/tristaZero) |
 
 ### ▶ Education
