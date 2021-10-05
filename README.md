@@ -36,6 +36,8 @@
 - [OpenInfra Days Asia 2021](https://2021.openinfra.asia/schedule.html), "The Database Governance Mechanism of ShardingSphere's Distributed Database Middleware Ecosystem"
 - [亚马逊云科技中国峰会2021](https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/), "构建云端的企业应用级分布式数据库生态"
 - [【了不起的开源开发者】线上专场](https://www.huodongxing.com/event/7613387577423?utm_source=%e4%b8%bb%e9%a1%b5&utm_medium=banner_291022504540&utm_campaign=homepage&qd=6628363043952&type=SITE_BANNER_AD_CLICK), "如何踏上成为“了不起的开发者”之路"
+- [OpenSourceIndia 2021](https://www.opensourceindia.in/conference-agenda-2021/), [How to Create a Distributed Database Ecosystem for Enterprise Cloud Applications](https://twitter.com/osidays/status/1444973692178599936)
+- [开放原子全球开发者大会（OADC）](https://mp.weixin.qq.com/s/X4nOq5YmmMn9XMp_nItOpw), "Apache ShardingSphere分布式数据库开源生态实战"
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2020**
 - 被评为[2020中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
