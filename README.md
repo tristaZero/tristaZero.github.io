@@ -1,39 +1,40 @@
-## Welcome to Trista's Pages
+## Welcome to Trista's Page
 
-###  Personal
+###  Profile
 
 <!-- |                                |                           |
 | :-----------------------------: | :------------------------: |
-| Chinese Name: 潘娟              | English Name: Juan Pan   |
+| Name: 潘娟              | Name: Juan Pan   |
 | Gender: Female                 | City: Beijing, China       |
 | Job Title: SphereEx co-founder&CTO | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC & [Apache brpc](https://github.com/apache/incubator-brpc) mentor & [Apache AGE](https://github.com/apache/incubator-age) mentor|
 | E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[tristaZero](https://twitter.com/tristaZero) | -->
-#### **~~姓名~~*English Name*** ~~潘娟~~ *Juan Pan*
+#### **~~姓名~~*Name*** ~~潘娟~~ *Juan Pan*
 #### **~~性别~~*Gender*** ~~女~~ *Female*
-#### **~~城市~~*city*** ~~北京, 中国~~ *Beijing, China*
-#### **~~职称~~*Job Title*** ~~SphereEx联合创始人兼首席技术官~~ *SphereEx co-founder&CTO*
-#### **~~社区名称~~*Community Title*** ~~Apache成员和Apache ShardingSphere PMC、Apache brpc导师和Apache AGE导师~~ *Apache member & Apache ShardingSphere PMC & Apache brpc mentor & Apache AGE mentor*
+#### **~~城市~~*City*** ~~北京, 中国~~ *Beijing, China*
+#### **~~职称~~*Professional Title*** ~~SphereEx联合创始人兼首席技术官~~ *SphereEx Co-Founder & CTO*
+#### **~~社区名称~~*Community Title*** ~~Apache成员和Apache ShardingSphere PMC、Apache brpc导师和Apache AGE导师~~ *Apache Member, Apache ShardingSphere PMC & Apache brpc Mentor & Apache AGE Mentor*
 #### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
 #### **Twitter** [tristaZero](https://twitter.com/tristaZero)
-
-###  Education
-
-- **Master degree**, *major in Visual pattern retrieval and Cloud computing, Sep.2014-Jun.2016, Dalian Maritime University* ~~2014年9月-2016年6月，大连海事大学视觉模式检索与云计算专业~~
-- **Bachelor degree**, *major in Software developing, Sep.2010-Jun.2014, Hebei Normal University* ~~2010年9月-2014年6月河北师范大学软件开发专业~~
+#### **GitHub** [tristaZero] (https://github.com/tristaZero)
 
 ###  Career
 
-**SphereEx co-founder**
-- Senior DBA working at JD.COM
-- As the PMC for Distributed Database Middleware Platform (Apache ShardingSphere) 
-- As the core developer for Distributed Transaction Middleware Platform (JDTX, None-OpenSource)
-- Take charge of Automated Database Management Platform (MySQL, Python, DevOps)
-- Data base management for MySQL (Data modeling, Recovery, Back up, Performance and so on)
+**SphereEx Co-Founder & CTO**
+- Senior DBA at JD.com
+- PMC at Apache ShardingSphere - Distributed Database Middleware Platform
+- Core Developer at JDTX - Distributed Transaction Middleware Platform (JDTX, None-OpenSource)
+- Head of Automated Database Management Platform (MySQL, Python, DevOps)
+- Database Management for MySQL (Data modeling, Recovery, Back up, Performance etc.)
 
-###  Activities
+###  Education
+
+- **Master's Degree**, *Visual Pattern Retrieval and Cloud Computing, Dalian Maritime University, Sep. 2014 - Jun. 2016* ~~2014年9月-2016年6月，大连海事大学视觉模式检索与云计算专业~~
+- **Bachelor's Degree**, *Software Development, Hebei Normal University, Sep. 2010 - Jun.2014* ~~2010年9月-2014年6月河北师范大学软件开发专业~~
+
+###  Event & Conference Appearances
 
 > **2021**    
-> - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg), [借力Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)
+> - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg), [Leverage Apache ShardingSphere to Build an Enterprise Distributed Database Platform]~~[ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg), [借力Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)~~
 > - [OpenTEKr开源人物专访-潘娟](https://b23.tv/el3K3A)
 > - [专访 SphereEx 创始团队](https://segmentfault.com/a/1190000039999206)
 > - [中国唯一一位女性 Apache Member 潘娟：我们还是要走出自己与众不同的 My Way](https://segmentfault.com/a/1190000040352390)
@@ -89,9 +90,9 @@
 > - ACMUG2017MySQL年会，"京东金融自动化与智能化运维设计与实践"
 > - ODF2017开源数据库论坛（台北），"稳中求进-打造京东金融MySQL运维高可用与自动化"
 
-###  Articles
+###  Articles & Written Contributions
 
-> **Experience**
+> **Personal Development**
 > - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
@@ -103,7 +104,7 @@
 > - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)([学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ))
 
-> **Technique**
+> **Technical**
 > - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
@@ -124,4 +125,4 @@
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (As the speaker)
 - [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (As the speaker)
 - [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (As the speaker)
-- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2) (As the speaker, In English)
+- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2) (As the speaker, in English)
