@@ -10,7 +10,7 @@
 | E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[tristaZero](https://twitter.com/tristaZero) | -->
 #### **~~姓名~~*English Name*** ~~潘娟~~ *Juan Pan (Trista)*
 #### **~~性别~~*Gender*** ~~女~~ *Female*
-#### **~~城市~~*city*** ~~北京, 中国~~ *Beijing, China*
+#### **~~城市~~*City*** ~~北京, 中国~~ *Beijing, China*
 #### **~~职位~~*Professional Title*** ~~SphereEx 联合创始人 & CTO~~ *SphereEx Co-Founder & CTO*
 #### **~~社区职位~~*Community Title*** Apache Member & Apache ShardingSphere PMC & Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor，AWS Data Hero.
 #### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
@@ -33,8 +33,8 @@
 ###  *Event & Conference Appearances*~~活动经历~~
 
 > **2021**    
-> - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)，“[借力 Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)”
-> - [OpenTEKr 开源人物专访潘娟](https://b23.tv/el3K3A)
+> - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)，"Create a Distributed Database Ecosystem with Apache Shardingsphere" ~~“[借力 Apache ShardingSphere，打造企业分布式数据库平台生态]~~(https://www.bilibili.com/video/BV1Yy4y147oi/)”
+> - Trista's Exclusive Interview with OpenTEKr Open Source Community~~[OpenTEKr 开源人物专访潘娟]~~(https://b23.tv/el3K3A)
 > - 思否[专访 SphereEx 创始团队](https://segmentfault.com/a/1190000039999206)
 > - [中国唯一一位女性 Apache Member 潘娟：我们还是要走出自己与众不同的 My Way](https://segmentfault.com/a/1190000040352390)
 > - [ApacheCon Asia 2021 —— Incubator track](https://mp.weixin.qq.com/s/bADxdBh9533LZaKuRlRyUg) 出品人
