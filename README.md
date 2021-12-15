@@ -113,7 +113,7 @@
 > - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) 
 
 ###  *Audio*~~播客~~
-- *[How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) *(Guest)* ~~(嘉宾)~~
+- [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) *(Guest)* ~~(嘉宾)~~
 - [How do we build Apache ShardingSphere community (Part two)](https://www.ximalaya.com/keji/37853515/308619842) *(Guest)*, ~~(嘉宾)~~
 - [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0) *(Guest)* ~~(嘉宾)~~
 - [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) *(Host)*, ~~(主持人)~~
