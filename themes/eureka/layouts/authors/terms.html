@@ -1,0 +1,12 @@
+{{ define "main" }}
+  {{ partial "components/list-article" . }}
+  <div class="bg-secondary-bg rounded px-6 py-8">
+    {{ range .Pages }}
+      <h2 class="text-primary-text my-2 text-lg">
+        <a href="{{ .Permalink }}" class="text-eureka hover:underline"
+          >{{ .LinkTitle }}</a
+        >
+      </h2>
+    {{ end }}
+  </div>
+{{ end }}

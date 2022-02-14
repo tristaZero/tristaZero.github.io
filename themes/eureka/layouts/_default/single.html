@@ -1,0 +1,60 @@
+{{ define "main" }}
+  {{ $hasToc := and (in .TableOfContents "<li>" ) (.Params.toc) }}
+  {{ $hasSidebar := or ($hasToc) (.Params.series) }}
+  <div class="grid grid-cols-2 gap-4 lg:grid-cols-8 lg:pt-12">
+    <div
+      class="{{ if not $hasSidebar }}
+        {{- print "lg:col-start-2" -}}
+      {{ end }} bg-secondary-bg col-span-2 rounded px-6 py-8 lg:col-span-6"
+    >
+      {{ partial "components/post-article" . }}
+
+      {{ with .GetTerms "tags" }}
+        {{ partial "components/post-tags" . }}
+      {{ end }}
+
+      {{ partial "components/post-edit" . }}
+
+      {{ with .GetTerms "authors" }}
+        {{ partial "components/post-author" . }}
+      {{ end }}
+
+      {{ partial "components/post-footer" . }}
+      {{ partial "comment.html" . }}
+    </div>
+    {{ if $hasSidebar }}
+      <div class="col-span-2">
+        {{ if .GetTerms "series" }}
+          {{ partial "components/post-series" . }}
+        {{ end }}
+        {{ if $hasToc }}
+          {{ partial "components/post-toc" . }}
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ $related := .Site.RegularPages.Related . | first 6 }}
+    {{ with $related }}
+      <div
+        class="{{ if not $hasSidebar }}
+          {{- print "lg:col-start-2" -}}
+        {{ end }} bg-secondary-bg prose col-span-2 max-w-none rounded p-6 lg:col-span-6"
+      >
+        <h3>{{ i18n "seeAlso" }}</h3>
+        {{ range . }}
+          <a href="{{ .Permalink }}" class="no-underline">{{ .LinkTitle }}</a>
+          <br />
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+
+  {{/* highlight */}}
+  {{- if eq .Site.Params.highlight.handler "highlightjs" }}
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        hljs.initHighlightingOnLoad();
+      });
+    </script>
+  {{- end }}
+{{ end }}

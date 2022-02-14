@@ -1,0 +1,61 @@
+.sticky-toc {
+  @apply sticky top-32 z-0 duration-300 ease-in-out;
+}
+
+.sticky-toc a {
+  @apply text-secondary-text duration-200 ease-in-out;
+}
+
+.sticky-toc a:hover {
+  @apply text-eureka;
+}
+
+.sticky-toc ul {
+  @apply ps-8 text-tertiary-text list-disc text-base;
+}
+
+.sticky-toc ol {
+  @apply ps-8 text-tertiary-text list-decimal text-base;
+}
+
+.sticky-toc li + li {
+  @apply mt-1;
+}
+
+.sticky-toc li > p + p {
+  @apply mt-6;
+}
+
+.object-contain {
+  object-fit: contain !important;
+}
+
+.pagination {
+  @apply flex justify-center;
+}
+
+.pagination .page-item {
+  @apply flex items-center;
+}
+
+.pagination .page-item .page-link {
+  @apply m-2 p-2;
+}
+
+.pagination .active {
+  @apply text-eureka;
+}
+
+.pagination .page-item:not(.disabled):hover {
+  @apply text-eureka;
+}
+
+.selected-menu-item {
+  @apply text-eureka;
+  border-top-color: var(--color-eureka);
+  border-bottom-color: transparent;
+}
+
+.max-w-screen-xl {
+  max-width: 1000px!important;
+}
