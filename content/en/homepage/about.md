@@ -3,7 +3,7 @@ title: Juan Pan (Trista)
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx Co-Founder & CTO, Apache Member, Apache ShardingSphere PMC & Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero, China Mulan Open Source Community Mentor.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx Co-Founder & CTO, Apache Member, Apache ShardingSphere PMC & Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -49,7 +49,7 @@ widget:
 #### **Gender** Female
 #### **city** Beijing, China
 #### **Professional Title** SphereEx Co-Founder & CTO
-#### **Community Title** Apache Member & Apache ShardingSphere PMC & Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero.
+#### **Community Title** Apache Member & Apache ShardingSphere PMC & Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero, Tencent cloud TVP.
 #### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
 #### **Twitter** [tristaZero](https://twitter.com/tristaZero)
     
