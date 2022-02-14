@@ -3,7 +3,7 @@ title: Juan Pan (Trista)
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx 联合创始人 & CTO, Apache Member & Apache ShardingSphere PMC, Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero, 中国木兰开源社区导师。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx 联合创始人 & CTO, Apache Member & Apache ShardingSphere PMC, Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero, 中国木兰开源社区导师，腾讯TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -49,7 +49,7 @@ widget:
 #### **性别** 女
 #### **城市** 北京, 中国
 #### **职位** SphereEx 联合创始人 & CTO
-#### **社区职位** Apache Member & Apache ShardingSphere PMC & Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero.
+#### **社区职位** Apache Member & Apache ShardingSphere PMC & Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero, Tencent cloud TVP.
 #### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
 #### **Twitter** [tristaZero](https://twitter.com/tristaZero)
     
