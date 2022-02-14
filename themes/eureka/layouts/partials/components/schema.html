@@ -1,0 +1,34 @@
+<meta name="description"
+  content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ end }}">
+
+{{- $bundles := partial "utils/get-bundles" . }}
+{{- if gt (len $bundles) 1 }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{- range $index, $value := $bundles.Reverse -}}
+    {{- if gt $index 0 -}},{{- end -}}
+    {
+      "@type": "ListItem",
+      "position": {{- add $index 1 -}},
+      "name": {{- .LinkTitle -}},
+      "item": {{- .Permalink -}}
+    }
+    {{- end -}}
+  ]
+}
+</script>
+{{- end }}
+
+{{/*  Deprecation warning(v1.0.0) starts */}}
+{{ $layout := partial "utils/hyphenate" (.Layout | default .Type) }}
+{{/*  Deprecation warning(v1.0.0) ends */}}
+{{- if and (eq .Type "docs") (ne $layout "doc-list") }}
+{{- partial "components/schema-page" . }}
+{{- else if or (eq .Kind "section") (eq .Kind "term") }}
+{{- partial "components/schema-node" . }}
+{{- else if .IsPage }}
+{{- partial "components/schema-page" . }}
+{{- end }}

@@ -1,0 +1,38 @@
+<div class="prose max-w-none">
+  <a href="{{ .Permalink }}" class="no-underline">
+    <h3 class="mt-0">{{ .LinkTitle }}</h3>
+  </a>
+  {{ if .Description }}
+    {{ .Description | plainify | htmlUnescape }}
+  {{ else if .Summary }}
+    {{ .Summary | plainify | htmlUnescape }}
+  {{ end }}
+
+  {{ if eq .Type "docs" }}
+    <div class="mx-6">
+      {{ range $index, $value := first 3 .Pages }}
+        {{ if gt $index 0 }}
+          <div class="-mx-4 my-4 border-t"></div>
+        {{ end -}}
+        <a href="{{ .Permalink }}" class="no-underline">
+          <h4>{{ .LinkTitle }}</h4>
+        </a>
+        {{ if .Description }}
+          {{ .Description | plainify | htmlUnescape }}
+        {{ else if .Summary }}
+          {{ .Summary | plainify | htmlUnescape }}
+        {{ end }}
+      {{ end }}
+      <a href="{{ .Permalink }}" class="no-underline">
+        <h4>
+          {{ i18n "readMore" }}
+          <i
+            class="fas {{ cond (eq .Site.Language.LanguageDirection "rtl") "fa-caret-left" "fa-caret-right" }} ms-1"
+          ></i>
+        </h4>
+      </a>
+    </div>
+  {{ else }}
+    {{ partial "components/post-metadata" . }}
+  {{ end }}
+</div>
