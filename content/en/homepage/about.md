@@ -45,13 +45,15 @@ widget:
 
 ###  Personal
 
-#### **English Name** Trista Pan
-#### **Gender** Female
-#### **city** Beijing, China
-#### **Professional Title** SphereEx Co-Founder & CTO
-#### **Community Title** Apache Member & Incubator mentor | Apache ShardingSphere PMC | Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph mentor | AWS Data Hero | Tencent cloud TVP.
-#### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
-#### **Twitter** [tristaZero](https://twitter.com/tristaZero)
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  |
+| :-----| :---- |
+| **English Name** | Trista Pan | 
+| **Gender** | Female |
+| **City** | Beijing, China |
+| **Professional Title** | SphereEx Co-Founder & CTO |
+| **Community Title** | Apache Member & Incubator mentor &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph mentor &#124; AWS Data Hero &#124; Tencent cloud TVP. |
+| **E-mail** | <a href="mailto:panjuan@apache.org">panjuan@apache.org</a> |
+| **Twitter** | [tristaZero](https://twitter.com/tristaZero) |
     
 ###  Education
 
