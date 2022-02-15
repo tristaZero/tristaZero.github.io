@@ -261,16 +261,17 @@ li{
       padding-bottom: 2px;
       border-bottom: 2px solid #F7651C;
   }
-  section h4{
-    font-weight: normal;
-      display: flex;
+  section table thead{height:1px;overflow: hidden;line-height: 1px;}
+  section table thead th{
+    height: 1px!important;
+    padding-bottom: 0!important;
   }
-  section h4 strong{
-      display: block;
-      width: 120px;
-      min-width: 120px;
-      margin-right: 10px;
-      
+  section tr, section thead{
+    border-bottom: none!important;
+  }
+  section table th,td{
+    font-size: 14px;
+    color:var(--tw-prose-headings);
   }
 
   .small-ico-1{

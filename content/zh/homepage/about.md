@@ -45,13 +45,15 @@ widget:
 
 ###  个人信息
 
-#### **姓名** 潘娟
-#### **性别** 女
-#### **城市** 北京, 中国
-#### **职位** SphereEx 联合创始人 & CTO
-#### **社区职位** Apache Member & 孵化器导师 | Apache ShardingSphere PMC | Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph mentor | AWS Data Hero | Tencent cloud TVP.
-#### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
-#### **Twitter** [tristaZero](https://twitter.com/tristaZero)
+| &emsp;&emsp;&emsp;&emsp;&emsp; |  |
+| :-----| :---- |
+| **姓名** | 潘娟 | 
+| **性别** | 女 |
+| **城市** | 北京, 中国 |
+| **职位** | SphereEx 联合创始人 & CTO |
+| **社区职位** | Apache Member & 孵化器导师 &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph mentor &#124; AWS Data Hero &#124; Tencent cloud TVP. |
+| **E-mail** | <a href="mailto:panjuan@apache.org">panjuan@apache.org</a> |
+| **Twitter** | [tristaZero](https://twitter.com/tristaZero) |
     
 ###  教育经历
 
