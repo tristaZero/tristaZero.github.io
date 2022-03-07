@@ -74,6 +74,7 @@ widget:
 > **2022**   
 > - [Tencent Cloud WeOpen「WeOpen Talk」](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
+> - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/winter2022/session/from-dba-open-source-contributor-to-cto-co-founder/)
 
 > **2021**   
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
