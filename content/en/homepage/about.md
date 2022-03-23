@@ -75,6 +75,7 @@ widget:
 > - [Tencent Cloud WeOpen「WeOpen Talk」](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
 > - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/winter2022/session/from-dba-open-source-contributor-to-cto-co-founder/)
+> - [How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations](https://pretalx.com/foss-backstage-2022/talk/FXNRXQ/)
 
 > **2021**   
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
@@ -157,6 +158,7 @@ widget:
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
 > - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) 
+> - [How Sharding a Database Can Make it Faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 
 ###  Audio
 - [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (Guest)
