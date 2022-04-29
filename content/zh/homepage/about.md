@@ -3,7 +3,7 @@ title: 潘娟
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx 联合创始人 & CTO, Apache Member & Incubator mentor, Apache ShardingSphere PMC, AWS Data Hero, 中国木兰开源社区导师，腾讯TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx 联合创始人 & CTO, Apache Member & Incubator mentor, Apache ShardingSphere PMC, AWS Data Hero, 中国木兰开源社区导师，腾讯TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。CSDN 2021 年度 IT 领军人物，2022年在 ICDE 发表论文“Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -62,7 +62,7 @@ widget:
 
 ###  职业生涯
 
-- SphereEx 联合创始人
+- SphereEx 联合创始人 & CTO
 - [京东](http://JD.com)高级 DBA
 - 分布式数据库中间件平台 PMC（Apache ShardingSphere）
 - 分布式交易中间件平台核心开发者（JDTX, 非开源）
@@ -74,6 +74,15 @@ widget:
 > **2022**   
 > - [腾源会「WeOpen Talk」“从女工程师转变成开源商业化 Infra 公司创始人，痛并快乐着”](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
+> - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/winter2022/session/from-dba-open-source-contributor-to-cto-co-founder/)
+> - [FOSS Backstage，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://foss-backstage.de/)
+> - [DevCon 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://dev-con.dev/speakers/)
+> - [FOSSASIA SUMMIT，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fossasia.org/)
+> - [Google WTM 北京站，“For better, not for perfect”](https://www.bilibili.com/video/BV12B4y1m7e3)
+> - [亚马逊云科技 User Group IWD 北京站，“The pros and cons when thinking about your career from a woman’s perspective” ](https://mp.weixin.qq.com/s/GrohjgeNHKwGslucOKFpZw)
+> - [Ladies Who Tech Digital，“女性开发者如何参与开源社区”](https://mp.weixin.qq.com/s/4vZPRz8tE6bv1e6OCl-2Vw)
+> - [DIVE 全球基础软件创新大会，“从 DBA 到 CTO，一名工程师应具备的核心特性与思考”](https://mp.weixin.qq.com/s/knQ7Bg81HvJmVZO9BAO9FA)
+> - [Conf42：Cloud Native 2022，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://www.papercall.io/conf42-cloud-native-2022)
 
 > **2021**    
 > - [ITPUB.NET "借力 Apache ShardingSphere，打造企业分布式数据库平台生态"](https://www.bilibili.com/video/BV1Yy4y147oi/)
@@ -150,6 +159,7 @@ widget:
 > - [学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ)
 
 > **技术解读**
+> - [Stack Overflow：How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 > - [The practical solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)

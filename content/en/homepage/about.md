@@ -3,7 +3,7 @@ title: Trista Pan
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx Co-Founder & CTO, Apache Member & Incubator mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx Co-Founder & CTO, Apache Member & Incubator mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.2021 CSDN IT Leading Personality. Her paper “Apache ShardingSphere:A Holistic and Pluggable Platform for Data Sharding” was published on ICDE in 2022. <br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -75,6 +75,14 @@ widget:
 > - [Tencent Cloud WeOpen「WeOpen Talk」](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
 > - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/winter2022/session/from-dba-open-source-contributor-to-cto-co-founder/)
+> - [FOSS Backstage，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://foss-backstage.de/)
+> - [DevCon 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://dev-con.dev/speakers/)
+> - [FOSSASIA SUMMIT，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fossasia.org/)
+> - [Google WTM Beijing，“For better, not for perfect”](https://www.bilibili.com/video/BV12B4y1m7e3)
+> - [Amazon Web Service User Group IWD Beijing，“The pros and cons when thinking about your career from a woman’s perspective” ](https://mp.weixin.qq.com/s/GrohjgeNHKwGslucOKFpZw)
+> - [Ladies Who Tech Digital，“How to keep motivated in STEM area”](https://mp.weixin.qq.com/s/4vZPRz8tE6bv1e6OCl-2Vw)
+> - [InfoQ DIVE，“From DBA to CTO, What Should an Engineer Consider When Changing Careers”](https://mp.weixin.qq.com/s/knQ7Bg81HvJmVZO9BAO9FA)
+> - [Conf42：Cloud Native 2022，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://www.papercall.io/conf42-cloud-native-2022)
 
 > **2021**   
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
@@ -153,6 +161,7 @@ widget:
 > - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)
 
 > **Technical**
+> - [Stack Overflow：How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 > - [The practical solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
