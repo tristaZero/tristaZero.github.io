@@ -3,7 +3,7 @@ title: 潘娟
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx 联合创始人 & CTO, Apache Member & Incubator mentor, Apache ShardingSphere PMC, AWS Data Hero, 中国木兰开源社区导师，腾讯TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。CSDN 2021 年度 IT 领军人物，2022年在 ICDE 发表论文“Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx 联合创始人 & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, 中国木兰开源社区导师，腾讯云 TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。CSDN 2021 年度 IT 领军人物，2022 年在 ICDE 发表论文 “Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -51,7 +51,7 @@ widget:
 | **性别** | 女 |
 | **城市** | 北京, 中国 |
 | **职位** | SphereEx 联合创始人 & CTO |
-| **社区职位** | Apache Member & 孵化器导师 &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph mentor &#124; AWS Data Hero &#124; Tencent cloud TVP. |
+| **社区职位** | Apache Member & 孵化器导师 &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph Mentor &#124; AWS Data Hero &#124; Tencent Cloud TVP. |
 | **E-mail** | <a href="mailto:panjuan@apache.org">panjuan@apache.org</a> |
 | **Twitter** | [tristaZero](https://twitter.com/tristaZero) |
     
@@ -96,7 +96,7 @@ widget:
 > - [OpenInfra Days Asia 2021 “The Database Governance Mechanism of ShardingSphere’s Distributed Database Middleware Ecosystem”](https://2021.openinfra.asia/schedule.html)
 > - [2021亚马逊云科技中国峰会 - “构建云端的企业应用级分布式数据库生态”](https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/)
 > - [如何踏上成为“了不起的开发者”之路](https://twitter.com/osidays/status/1444973692178599936)
-> - “[Open Source India 2021,"How to Create a Distributed Database Ecosystem for Enterprise Cloud Applications"](https://twitter.com/osidays/status/1444973692178599936)”
+> - [Open Source India 2021,"How to Create a Distributed Database Ecosystem for Enterprise Cloud Applications"](https://twitter.com/osidays/status/1444973692178599936)
 > - [OADC开放原子全球开发者大会 - “Apache ShardingSphere分布式数据库开源生态实战”](https://mp.weixin.qq.com/s/X4nOq5YmmMn9XMp_nItOpw)
 > - [获得中国信通院 2021 OSCAR 尖峰开源人物](https://cdn.modb.pro/db/111305)
 > - [2021 第六届中国开源年会（COSCon'21）主论坛“开源社区未来探索与实践”](https://www.bilibili.com/video/BV13T4y1d7dk?spm_id_from=333.999.0.0)
@@ -111,7 +111,7 @@ widget:
 > - 2020 中国软件技术大会 - "分布式数据库中间件的数据库化架构演进"
 > - [开源软件供应链 2020 峰会 - "Apache ShardingSphere 分布式数据库生态圈架构演进"](https://isrc.iscas.ac.cn/summer2020/#/summitmeeting)
 > - [PGConf.Asia (PostgreSQL Conference Asia)"构建 PostgreSQL 的分布式数据库中间件生态体系"](https://mp.weixin.qq.com/s/7RpKbWPytzMH9VSgjxxCoA)
-> -Apache Roadshow China 2020, "数据库化的分布式数据库中间件生态圈极简使用策略"
+> - Apache Roadshow China 2020, "数据库化的分布式数据库中间件生态圈极简使用策略"
 > - TiD 2020 质量竞争力大会， "互联网海量数据场景下的分布式数据库与服务治理"
 > - OSC 源创会第 89 期，"开源推动下 Apache ShardingSphere 架构演进"
 > - ITPUB 技术栈，"从 New SQL 角度看 Apache ShardingSphere"
