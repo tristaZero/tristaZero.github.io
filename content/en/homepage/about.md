@@ -3,7 +3,7 @@ title: Trista Pan
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx Co-Founder & CTO, Apache Member & Incubator mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.2021 CSDN IT Leading Personality. Her paper “Apache ShardingSphere:A Holistic and Pluggable Platform for Data Sharding” was published on ICDE in 2022. <br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx Co-Founder & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent Cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.2021 CSDN IT Leading Personality. Her paper “Apache ShardingSphere:A Holistic and Pluggable Platform for Data Sharding” was published on ICDE in 2022. <br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -51,7 +51,7 @@ widget:
 | **Gender** | Female |
 | **City** | Beijing, China |
 | **Professional Title** | SphereEx Co-Founder & CTO |
-| **Community Title** | Apache Member & Incubator mentor &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph mentor &#124; AWS Data Hero &#124; Tencent cloud TVP. |
+| **Community Title** | Apache Member & Incubator Mentor &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph Mentor &#124; AWS Data Hero &#124; Tencent Cloud TVP. |
 | **E-mail** | <a href="mailto:panjuan@apache.org">panjuan@apache.org</a> |
 | **Twitter** | [tristaZero](https://twitter.com/tristaZero) |
     
