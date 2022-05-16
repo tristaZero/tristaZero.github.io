@@ -74,15 +74,15 @@ widget:
 > **2022**   
 > - [Tencent Cloud WeOpen「WeOpen Talk」](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
-> - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/winter2022/session/from-dba-open-source-contributor-to-cto-co-founder/)
-> - [FOSS Backstage，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://foss-backstage.de/)
-> - [DevCon 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://dev-con.dev/speakers/)
-> - [FOSSASIA SUMMIT，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fossasia.org/)
+> - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/juan-pan/)
+> - [FOSS Backstage，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=6mpv2UCSFUg)
+> - [DevCon 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=f5ojhDxBC48)
+> - [FOSSASIA SUMMIT，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://eventyay.com/e/6b901f56/session/7637)
 > - [Google WTM Beijing，“For better, not for perfect”](https://www.bilibili.com/video/BV12B4y1m7e3)
 > - [Amazon Web Service User Group IWD Beijing，“The pros and cons when thinking about your career from a woman’s perspective” ](https://mp.weixin.qq.com/s/GrohjgeNHKwGslucOKFpZw)
-> - [Ladies Who Tech Digital，“How to keep motivated in STEM area”](https://mp.weixin.qq.com/s/4vZPRz8tE6bv1e6OCl-2Vw)
+> - [Ladies Who Tech Digital，“How to keep motivated in STEM area”](https://www.bilibili.com/video/BV12L4y1c7rA?spm_id_from=333.337.search-card.all.click)
 > - [InfoQ DIVE，“From DBA to CTO, What Should an Engineer Consider When Changing Careers”](https://mp.weixin.qq.com/s/knQ7Bg81HvJmVZO9BAO9FA)
-> - [Conf42：Cloud Native 2022，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://www.papercall.io/conf42-cloud-native-2022)
+> - [Conf42：Cloud Native 2022，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://www.conf42.com/Cloud_Native_2022_Trista_Pan_postgresql_distributed_secure_database_ecosystem)
 
 > **2021**   
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
