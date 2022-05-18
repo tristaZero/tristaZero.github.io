@@ -76,6 +76,7 @@ widget:
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
 > - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/juan-pan/)
 > - [FOSS Backstage，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=6mpv2UCSFUg)
+> - [51CTO T·Talk直播，“Apache 顶级项目 ShardingSphere 的开源之道”](https://www.bilibili.com/video/BV1w44y137cq?spm_id_from=333.999.0.0)
 > - [DevCon 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=f5ojhDxBC48)
 > - [FOSSASIA SUMMIT，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://eventyay.com/e/6b901f56/session/7637)
 > - [Google WTM 北京站，“For better, not for perfect”](https://www.bilibili.com/video/BV12B4y1m7e3)
