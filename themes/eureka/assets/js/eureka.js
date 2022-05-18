@@ -337,11 +337,10 @@ $(function(){
         let header = $('header').eq(1),
         w = $(window)
 
-        console.log(9999, header.height()+header.offset().top-w.scrollTop(), w.height())
+        // console.log(9999, header.height()+header.offset().top-w.scrollTop(), w.height())
         if(header.height()+header.offset().top-w.scrollTop() > w.height()) {
-            console.log(8888)
             header.addClass('scroll')
-        }else{console.log(7777)
+        }else{
             header.removeClass('scroll')
         }
 
