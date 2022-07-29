@@ -3,7 +3,7 @@ title: 潘娟
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx 联合创始人 & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, 中国木兰开源社区导师，腾讯云 TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。CSDN 2021 年度 IT 领军人物，2022 年在 ICDE 发表论文 “Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx 联合创始人 & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, 中国木兰开源社区导师，腾讯云 TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。CSDN 2021 年度 IT 领军人物，2022 年在 ICDE 发表论文 “Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”。2022 年入选 Globee Awards “Chief Technology Officier of the Year” 荣誉。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -84,6 +84,11 @@ widget:
 > - [Ladies Who Tech Digital，“女性开发者如何参与开源社区”](https://www.bilibili.com/video/BV12L4y1c7rA?spm_id_from=333.337.search-card.all.click)
 > - [DIVE 全球基础软件创新大会，“从 DBA 到 CTO，一名工程师应具备的核心特性与思考”](https://mp.weixin.qq.com/s/knQ7Bg81HvJmVZO9BAO9FA)
 > - [Conf42：Cloud Native 2022，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://www.conf42.com/Cloud_Native_2022_Trista_Pan_postgresql_distributed_secure_database_ecosystem)
+> - [PGCon，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://www.pgcon.org/events/pgcon_2022/schedule/session/309-how-to-build-a-distributed-secure-database-ecosystem-with-postgresql/)
+> - [Big Data Days 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=aSizwmVoBiM)
+> - [cdCon，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://cdcon2022.sched.com/event/10fRR/virtual-session-how-to-grow-and-mentor-an-open-source-community-achieve-collaboration-with-over-170-listed-corporations-trista-pan-sphereex)
+> - [Apache ShardingSphere Tech-Meetup Vol.6，“ShardingSphere 5.1.2：全新驱动 API + 云原生部署，打造高性能数据网关”](https://www.bilibili.com/video/BV1m94y197Xm?spm_id_from=333.999.list.card_archive.click&vd_source=c02dbb43918e78f1ad83ba6f5b1db478)
+> - [OpenInfra + CloudNative Days Asia，“Online OLTP computing and traffic governance as a service for true digital transformation”](https://2022.openinfra.asia/schedule.html)
 
 > **2021**    
 > - [ITPUB.NET "借力 Apache ShardingSphere，打造企业分布式数据库平台生态"](https://www.bilibili.com/video/BV1Yy4y147oi/)
@@ -148,6 +153,7 @@ widget:
 ###  文章布道
 
 > **个人发展**
+> - [《新程序员》｜90 后 CTO 如何成为国内首位女性 Apache Member？](https://mp.weixin.qq.com/s/TpRqA5gAuK1c1Zx4nCz7RA)
 > - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
