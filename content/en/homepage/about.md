@@ -3,7 +3,7 @@ title: Trista Pan
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx Co-Founder & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent Cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.2021 CSDN IT Leading Personality. Her paper “Apache ShardingSphere:A Holistic and Pluggable Platform for Data Sharding” was published on ICDE in 2022. <br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx Co-Founder & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent Cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.2021 CSDN IT Leading Personality. Her paper “Apache ShardingSphere:A Holistic and Pluggable Platform for Data Sharding” was published on ICDE in 2022. Elected as “Chief Technology Officier of the Year” by Globee Awards in 2022. <br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -83,6 +83,11 @@ widget:
 > - [Ladies Who Tech Digital，“How to keep motivated in STEM area”](https://www.bilibili.com/video/BV12L4y1c7rA?spm_id_from=333.337.search-card.all.click)
 > - [InfoQ DIVE，“From DBA to CTO, What Should an Engineer Consider When Changing Careers”](https://mp.weixin.qq.com/s/knQ7Bg81HvJmVZO9BAO9FA)
 > - [Conf42：Cloud Native 2022，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://www.conf42.com/Cloud_Native_2022_Trista_Pan_postgresql_distributed_secure_database_ecosystem)
+> - [PGCon，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://www.pgcon.org/events/pgcon_2022/schedule/session/309-how-to-build-a-distributed-secure-database-ecosystem-with-postgresql/)
+> - [Big Data Days 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=aSizwmVoBiM)
+> - [cdCon，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://cdcon2022.sched.com/event/10fRR/virtual-session-how-to-grow-and-mentor-an-open-source-community-achieve-collaboration-with-over-170-listed-corporations-trista-pan-sphereex)
+> - [Apache ShardingSphere Tech-Meetup Vol.6，“ShardingSphere 5.1.2 Release”](https://www.bilibili.com/video/BV1m94y197Xm?spm_id_from=333.999.list.card_archive.click&vd_source=c02dbb43918e78f1ad83ba6f5b1db478)
+> - [OpenInfra + CloudNative Days Asia，“Online OLTP computing and traffic governance as a service for true digital transformation”](https://2022.openinfra.asia/schedule.html)
 
 > **2021**   
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
