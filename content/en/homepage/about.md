@@ -3,7 +3,7 @@ title: Trista Pan
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx Co-Founder & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent Cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the "2020 China Open-Source Pioneer" award, the "2021 OSCAR 2021 Top Open Source Pioneer" and CSDN's 2021 "IT Leading Personality". Her paper "Apache ShardingSphere: A Holistic and Pluggable Platform for Data Sharding" was published on ICDE in 2022. Most recently in 2022 she was voted as "Chief Technology Officer of the Year" by Globee Awards. <br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx Co-Founder & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent Cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the "2020 China Open-Source Pioneer" award, the "2021 OSCAR 2021 Top Open Source Pioneer" and CSDN's 2021 "IT Leading Personality". Her paper "Apache ShardingSphere: A Holistic and Pluggable Platform for Data Sharding" was published on ICDE in 2022. Most recently in 2022 she was voted as "Chief Technology Officer of the Year" by Globee Awards. As the first author, she wrote a book titled <em> A Definitive Guide to Apache ShardingSphere </em> which was published by Packt in 2022.<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -87,7 +87,10 @@ widget:
 > - [Big Data Days 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=aSizwmVoBiM)
 > - [cdCon，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://cdcon2022.sched.com/event/10fRR/virtual-session-how-to-grow-and-mentor-an-open-source-community-achieve-collaboration-with-over-170-listed-corporations-trista-pan-sphereex)
 > - [Apache ShardingSphere Tech-Meetup Vol.6，“ShardingSphere 5.1.2 Release”](https://www.bilibili.com/video/BV1m94y197Xm?spm_id_from=333.999.list.card_archive.click&vd_source=c02dbb43918e78f1ad83ba6f5b1db478)
-> - [OpenInfra + CloudNative Days Asia，“Online OLTP computing and traffic governance as a service for true digital transformation”](https://2022.openinfra.asia/schedule.html)
+> - [OpenInfra + CloudNative Days Asia，“Online OLTP computing and traffic governance as a service for true digital transformation”](https://www.youtube.com/watch?v=BeikTLoACLQ)
+> - [OSSummit Latin America，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=gDi3BBLO_ME&list=PLbzoR-pLrL6qv2fp7qR4Ks7BmqJWuPO-T&index=60)
+> - [J-CON Online 2022，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://jcononline2022.sched.com/event/11lCj/how-to-build-a-distributed-secure-database-ecosystem-with-postgresql)
+> - [Cloud Container Sec Summit，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://www.techstrongevents.com/container-cloud-sec-con-2022/v/s-967915?i=VD-19PuyMVydP-ngifYOtGYJeF2lguKS)
 
 > **2021**   
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
@@ -166,7 +169,9 @@ widget:
 > - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)
 
 > **Technical**
+> - [InfoQ｜Creating a Secure Distributed Database Cluster Leveraging Your Existing Database Management System](https://www.infoq.com/articles/secure-distributed-database-cluster/)
 > - [Stack Overflow：How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
+> - [InfoQ｜The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/)
 > - [The practical solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
