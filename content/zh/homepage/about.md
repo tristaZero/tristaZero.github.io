@@ -3,7 +3,7 @@ title: 潘娟
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx 联合创始人 & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, 中国木兰开源社区导师，腾讯云 TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。CSDN 2021 年度 IT 领军人物，2022 年在 ICDE 发表论文 “Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”。2022 年入选 Globee Awards “Chief Technology Officier of the Year” 荣誉。2022 年作为第一作者出版海外书籍《A Definitive Guide to Apache ShardingSphere》。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx 联合创始人 & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, 中国木兰开源社区导师，腾讯云 TVP。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。CSDN 2021 年度 IT 领军人物，2022 年在 ICDE 发表论文 “Apache ShardingSphere，A Holistic and Pluggable Platform for Data Sharding”。2022 年入选 Globee Awards “Chief Technology Officier of the Year” 荣誉。2022 年作为第一作者出版海外书籍《A Definitive Guide to Apache ShardingSphere》。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
