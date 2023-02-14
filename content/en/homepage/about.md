@@ -71,6 +71,10 @@ widget:
 
 ###  Event & Conference Appearances
 
+> **2023**   
+> - [Conf42 DevOps 2023](conf42.com/devops2023)
+> - [2022 Juejin Future Conference](http://conf.juejin.cn/future2022/?utm_source=1223gzh)
+
 > **2022**   
 > - [Tencent Cloud WeOpen「WeOpen Talk」](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
@@ -91,6 +95,13 @@ widget:
 > - [OSSummit Latin America，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=gDi3BBLO_ME&list=PLbzoR-pLrL6qv2fp7qR4Ks7BmqJWuPO-T&index=60)
 > - [J-CON Online 2022，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://jcononline2022.sched.com/event/11lCj/how-to-build-a-distributed-secure-database-ecosystem-with-postgresql)
 > - [Cloud Container Sec Summit，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://www.techstrongevents.com/container-cloud-sec-con-2022/v/s-967915?i=VD-19PuyMVydP-ngifYOtGYJeF2lguKS)
+> - [Conf42: Kube Native, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://www.conf42.com/Kube_Native_2022_Trista_Pan_oltp_computing_traffic_governance_aas)
+> - [Localhost Conference 2022, "How to Build a Distributed & Secure Database Ecosystem with PostgreSQL"](https://www.youtube.com/watch?v=0zhbVe0weoM)
+> - [Big Data EU, "PostgreSQL Distributed & Secure Database Ecosystem Building"](https://events.pinetool.ai/2749/#speakers/788995?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers)
+> - [Data Science Global Summit’22.2, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://geekle.us/schedule/datascience2)
+> - [SodaCon, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://events.linuxfoundation.org/sodacon-japan/program/schedule/)
+> - [UXDX Community APAC Online, "How to Perform Cloud Migration by Leveraging Apache ShardingSphere Database Mesh Capabilities"](https://uxdx.com/session/how-to-perform-cloud-migration-by-leveraging-apache-shardingsphere-database-mesh-capabilities/)
+> - [China Software Technology Conference](http://www.softcon.cn/)
 
 > **2021**   
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
@@ -167,6 +178,10 @@ widget:
 > - [Juan Pan: Create a Diverse and Active Open-Source Community Step by Step](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
 > - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)
+> - [New Programmer | How Did a Millenial CTO Become the First Female Apache Member in China?](https://mp.weixin.qq.com/s/TpRqA5gAuK1c1Zx4nCz7RA)
+> - [InfoQ | The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
+> - [Stack Overflow | How sharding a database can make it faster](http://47.88.106.83/2022/03/14/how-sharding-a-database-can-make-it-faster/)
+> - [InfoQ | Creating a Secure Distributed Database Cluster Leveraging Your Existing Database Management System](https://www.infoq.com/articles/secure-distributed-database-cluster/)
 
 > **Technical**
 > - [InfoQ｜Creating a Secure Distributed Database Cluster Leveraging Your Existing Database Management System](https://www.infoq.com/articles/secure-distributed-database-cluster/)
@@ -176,6 +191,7 @@ widget:
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
 > - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) 
+> - [Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
 
 ###  Audio
 - [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (Guest)
