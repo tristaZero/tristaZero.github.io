@@ -158,7 +158,7 @@ monolithic database"](https://warszawskiedniinformatyki.pl/en/)
 > - 2019 China Open Source Annual Conference, "0 to 1: Apache ShardingSphere Open Source Ecosystem Evolution"
 > - System Architect Conference China 2019, "ApacheShardingSphere Data Platform Evolution"
 > - 2019 HUAWEI Connection + Apache meetup, "Insight into the Distributed Transaction Solution Developed by ShardingSphere and ServiceComb"
-> - 2019 JD Technology Salon, "Pratice and Exploration of Distributed Database Middleware in JD Digital Science and Technology Production"
+> - 2019 JD Technology Salon, "Practice and Exploration of Distributed Database Middleware in JD Digital Science and Technology Production"
 > - 2019 DBAPlus Vol. 183, "Practice of Distributed Database Middleware in JD.com"
 > - 2019 Tech Day of SequoiaDB, "Analysis and Application of Open Source Distributed Database Middleware Architecture"
 
@@ -180,7 +180,8 @@ monolithic database"](https://warszawskiedniinformatyki.pl/en/)
 ###  Articles & Written Contributions
 
 > **Personal Development**
-> - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
+> - [InfoQ｜ The Journey from Underrepresented IC to CTO: How Open Source Helped](https://www.infoq.com/articles/breaking-barriers-open-source/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
+> - [Hero journey-A story about exploring an open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A talking in OS-CHINA conference](https://mp.weixin.qq.com/s/UaFpCMv_UI_QH4RVhJPdew)
@@ -191,19 +192,16 @@ monolithic database"](https://warszawskiedniinformatyki.pl/en/)
 > - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)
 > - [New Programmer | How Did a Millenial CTO Become the First Female Apache Member in China?](https://mp.weixin.qq.com/s/TpRqA5gAuK1c1Zx4nCz7RA)
-> - [InfoQ | The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
-> - [Stack Overflow | How sharding a database can make it faster](http://47.88.106.83/2022/03/14/how-sharding-a-database-can-make-it-faster/)
-> - [InfoQ | Creating a Secure Distributed Database Cluster Leveraging Your Existing Database Management System](https://www.infoq.com/articles/secure-distributed-database-cluster/)
 
 > **Technical**
 > - [InfoQ｜Creating a Secure Distributed Database Cluster Leveraging Your Existing Database Management System](https://www.infoq.com/articles/secure-distributed-database-cluster/)
-> - [Stack Overflow：How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
+> - [Stack Overflow: How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 > - [InfoQ｜The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/)
 > - [The practical solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
 > - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) 
-> - [Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
+> - [InfoQ｜Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
 
 ###  Audio
 - [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (Guest)
