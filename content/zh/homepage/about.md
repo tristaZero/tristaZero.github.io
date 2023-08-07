@@ -62,7 +62,7 @@ widget:
 
 ###  职业生涯
 
-- SphereEx 联合创始人 & CTO
+- **SphereEx 联合创始人 & CTO**, 2021年4月-至今，SphereEx
   1. AWS Data Hero
   2. 中国木兰开源社区导师
   3. 腾讯云 TVP
@@ -72,13 +72,13 @@ widget:
   7. Globee Awards “Chief Technology Officier of the Year
   8. 第一作者出版海外书籍《A Definitive Guide to Apache ShardingSphere》
   9. 在 ICDE 发表论文 “Apache ShardingSphere，A Holistic and Pluggable Platform for Data Sharding”
-- 高级数据库中间件研发工程师，2018年1月-2021年4月，京东
+- **高级数据库中间件研发工程师**，2018年1月-2021年4月，京东
   1. 负责京东金融分布式云数据库中间件平台的研发
   2. 负责京东金融分布式事务引擎及平台(关系型数据库强一致性分布式事务引擎)的研发
   3. Apache开源软件基金会顶级开源项目 [Apache ShardingSphere](https://shardingsphere.apache.org/) Maintainer
   4. Apache开源软件基金会孵化器导师 & memeber
-  5. [Apache brpc](https://github.com/apache/incubator-brpc) & [Apache AGE](https://github.com/apache/incubator-age) & [Aache HugeGraph(https://hugegraph.apache.org/) 社区导师
-- 高级DBA工程师，2016年1月-2018年1月，京东
+  5. [Apache brpc](https://github.com/apache/incubator-brpc) & [Apache AGE](https://github.com/apache/incubator-age) & [Aache HugeGraph](https://hugegraph.apache.org/) 社区导师
+- **高级DBA工程师**，2016年1月-2018年1月，京东
   1. 负责京东金融生产大规模 MySQL/Oracle 数据库设计、运维、管理工作
   2. 负责京东金融数据库自动化运维管理平台的设计和研发工作（MySQL/Oracle, Python, DevOps）
 
