@@ -71,30 +71,42 @@ widget:
 
 ###  Event & Conference Appearances
 
-> **2023**   
+> **2023**
+> - [2023/06/29	Conf42: Quantum Computing 2023, "Dynamic data masking & encryption for MySQL/PostgreSQL with no code changes"](https://www.conf42.com/quantum2023)
+> - [2023/05/23	DevDays Europe 2023, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://devdays.lt/#)
+> - [2023/05/11	Women in Tech Global Conference "From IC to CTO, the thinking and story of this title change from woman perspective"](https://www.womentech.net/speaker/Trista/Pan/77175)
+> 
+> - [2023/05/04	Conf42.com: Site Reliability Engineering (SRE) 2023, "How to achieve the scalability, high availability, and elastic ability of your database infrastructure on Kubernetes"](https://www.conf42.com/sre2023)
+>  
+> - [2023/04/20	Conf42: Golang 2023, "Create the distributed database on Kubernetes leveraging your existing monolithic database"](https://www.conf42.com/golang2023)
+> - [2023/04/20	Big Data Days 2023, "Build a Big Data Business Around Open Source: A Handbook for Founders & Initial Committers of Successful Open Source Projects"](https://events.bigdataframework.org/BigDataDays2023?lang=en#/speakers?lang=en)
+> - [2023/03/30	Conf42 Cloud Native 2023, "Automatically shard and scale-out your traditional databases on Kubernetes for true digital transformation"](https://www.conf42.com/cloud2023)
+> - [2023/03/24	Warsaw IT Days 2023, "Create the distributed database on Kubernetes leveraging your existing
+monolithic database"](https://warszawskiedniinformatyki.pl/en/)
+> - [2023/02/21	Java Devs'23 Online Summit, "Automatically shard and scale-out your traditional databases on Kubernates for true digital transformation"](https://events.geekle.us/java23/)
 > - [Conf42 DevOps 2023](conf42.com/devops2023)
 > - [2022 Juejin Future Conference](http://conf.juejin.cn/future2022/?utm_source=1223gzh)
 
 > **2022**   
 > - [Tencent Cloud WeOpen「WeOpen Talk」](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
-> - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
+> - [FOSDEM 2022, "PostgreSQL Distributed & Secure Database Ecosystem Building"](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
 > - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/juan-pan/)
-> - [FOSS Backstage，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=6mpv2UCSFUg)
-> - [DevCon 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=f5ojhDxBC48)
-> - [FOSSASIA SUMMIT，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://eventyay.com/e/6b901f56/session/7637)
-> - [Google WTM Beijing，“For better, not for perfect”](https://www.bilibili.com/video/BV12B4y1m7e3)
-> - [Amazon Web Service User Group IWD Beijing，“The pros and cons when thinking about your career from a woman’s perspective” ](https://mp.weixin.qq.com/s/GrohjgeNHKwGslucOKFpZw)
-> - [Ladies Who Tech Digital，“How to keep motivated in STEM area”](https://www.bilibili.com/video/BV12L4y1c7rA?spm_id_from=333.337.search-card.all.click)
-> - [InfoQ DIVE，“From DBA to CTO, What Should an Engineer Consider When Changing Careers”](https://mp.weixin.qq.com/s/knQ7Bg81HvJmVZO9BAO9FA)
-> - [Conf42：Cloud Native 2022，“PostgreSQL Distributed & Secure Database Ecosystem Building”](https://www.conf42.com/Cloud_Native_2022_Trista_Pan_postgresql_distributed_secure_database_ecosystem)
-> - [PGCon，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://www.pgcon.org/events/pgcon_2022/schedule/session/309-how-to-build-a-distributed-secure-database-ecosystem-with-postgresql/)
-> - [Big Data Days 2022，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=aSizwmVoBiM)
-> - [cdCon，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://cdcon2022.sched.com/event/10fRR/virtual-session-how-to-grow-and-mentor-an-open-source-community-achieve-collaboration-with-over-170-listed-corporations-trista-pan-sphereex)
-> - [Apache ShardingSphere Tech-Meetup Vol.6，“ShardingSphere 5.1.2 Release”](https://www.bilibili.com/video/BV1m94y197Xm?spm_id_from=333.999.list.card_archive.click&vd_source=c02dbb43918e78f1ad83ba6f5b1db478)
-> - [OpenInfra + CloudNative Days Asia，“Online OLTP computing and traffic governance as a service for true digital transformation”](https://www.youtube.com/watch?v=BeikTLoACLQ)
-> - [OSSummit Latin America，“How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations”](https://www.youtube.com/watch?v=gDi3BBLO_ME&list=PLbzoR-pLrL6qv2fp7qR4Ks7BmqJWuPO-T&index=60)
-> - [J-CON Online 2022，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://jcononline2022.sched.com/event/11lCj/how-to-build-a-distributed-secure-database-ecosystem-with-postgresql)
-> - [Cloud Container Sec Summit，“How to Build a Distributed & Secure Database Ecosystem with PostgreSQL”](https://www.techstrongevents.com/container-cloud-sec-con-2022/v/s-967915?i=VD-19PuyMVydP-ngifYOtGYJeF2lguKS)
+> - [FOSS Backstage，"How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations"](https://www.youtube.com/watch?v=6mpv2UCSFUg)
+> - [DevCon 2022，"How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations"](https://www.youtube.com/watch?v=f5ojhDxBC48)
+> - [FOSSASIA SUMMIT，"PostgreSQL Distributed & Secure Database Ecosystem Building"](https://eventyay.com/e/6b901f56/session/7637)
+> - [Google WTM Beijing，"For better, not for perfect"](https://www.bilibili.com/video/BV12B4y1m7e3)
+> - [Amazon Web Service User Group IWD Beijing，"The pros and cons when thinking about your career from a woman’s perspective" ](https://mp.weixin.qq.com/s/GrohjgeNHKwGslucOKFpZw)
+> - [Ladies Who Tech Digital，"How to keep motivated in STEM area"](https://www.bilibili.com/video/BV12L4y1c7rA?spm_id_from=333.337.search-card.all.click)
+> - [InfoQ DIVE，"From DBA to CTO, What Should an Engineer Consider When Changing Careers"](https://mp.weixin.qq.com/s/knQ7Bg81HvJmVZO9BAO9FA)
+> - [Conf42：Cloud Native 2022，"PostgreSQL Distributed & Secure Database Ecosystem Building"](https://www.conf42.com/Cloud_Native_2022_Trista_Pan_postgresql_distributed_secure_database_ecosystem)
+> - [PGCon，"How to Build a Distributed & Secure Database Ecosystem with PostgreSQL"](https://www.pgcon.org/events/pgcon_2022/schedule/session/309-how-to-build-a-distributed-secure-database-ecosystem-with-postgresql/)
+> - [Big Data Days 2022，"How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations"](https://www.youtube.com/watch?v=aSizwmVoBiM)
+> - [cdCon，"How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations"](https://cdcon2022.sched.com/event/10fRR/virtual-session-how-to-grow-and-mentor-an-open-source-community-achieve-collaboration-with-over-170-listed-corporations-trista-pan-sphereex)
+> - [Apache ShardingSphere Tech-Meetup Vol.6，"ShardingSphere 5.1.2 Release"](https://www.bilibili.com/video/BV1m94y197Xm?spm_id_from=333.999.list.card_archive.click&vd_source=c02dbb43918e78f1ad83ba6f5b1db478)
+> - [OpenInfra + CloudNative Days Asia，"Online OLTP computing and traffic governance as a service for true digital transformation"](https://www.youtube.com/watch?v=BeikTLoACLQ)
+> - [OSSummit Latin America，"How to Grow and Mentor an Open Source Community & Achieve Collaboration with Over 170 Listed Corporations"](https://www.youtube.com/watch?v=gDi3BBLO_ME&list=PLbzoR-pLrL6qv2fp7qR4Ks7BmqJWuPO-T&index=60)
+> - [J-CON Online 2022，"How to Build a Distributed & Secure Database Ecosystem with PostgreSQL"](https://jcononline2022.sched.com/event/11lCj/how-to-build-a-distributed-secure-database-ecosystem-with-postgresql)
+> - [Cloud Container Sec Summit，"How to Build a Distributed & Secure Database Ecosystem with PostgreSQL"](https://www.techstrongevents.com/container-cloud-sec-con-2022/v/s-967915?i=VD-19PuyMVydP-ngifYOtGYJeF2lguKS)
 > - [Conf42: Kube Native, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://www.conf42.com/Kube_Native_2022_Trista_Pan_oltp_computing_traffic_governance_aas)
 > - [Localhost Conference 2022, "How to Build a Distributed & Secure Database Ecosystem with PostgreSQL"](https://www.youtube.com/watch?v=0zhbVe0weoM)
 > - [Big Data EU, "PostgreSQL Distributed & Secure Database Ecosystem Building"](https://events.pinetool.ai/2749/#speakers/788995?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers)
@@ -105,33 +117,33 @@ widget:
 
 > **2021**   
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
-> - [OpenTEKr Open Source Notable Personlities Interview with Pan Juan](https://b23.tv/el3K3A)
+> - [OpenTEKr Open Source Notable Personalities Interview with Pan Juan](https://b23.tv/el3K3A)
 > - [SphereEx Founding Team's Exclusive Interview with SegmentFault](https://segmentfault.com/a/1190000039999206)
 > - [Pan Juan, the only Woman Apache Member in China](https://segmentfault.com/a/1190000040352390)
 > - [ApacheCon Asia 2021 —— Incubator Track Chair](https://mp.weixin.qq.com/s/bADxdBh9533LZaKuRlRyUg)
 > - [2021 Amazon Cloud Technology China Summit, "Apache ShardingSphere: Open Source Distributed Database Middleware Ecosystem Building"](https://giac.msup.com.cn/course?id=15253)
 > - [GIAC 2021 Global Internet Architecture Conference, "Apache Sharding Sphere DB Plus Architecture Ecosystem Evolution"](https://gotc.oschina.net/)
 > - [GOTC 2021 Global Opensource Technology Conference, "How to Create an Open Source Distributed Database Ecosystem"](https://2021.openinfra.asia/schedule.html)
-> - [OpenInfra Days Asia 2021,“The Database Governance Mechanism of ShardingSphere’s Distributed Database Middleware Ecosystem”](https://2021.openinfra.asia/schedule.html)
+> - [OpenInfra Days Asia 2021, "The Database Governance Mechanism of ShardingSphere’s Distributed Database Middleware Ecosystem"](https://2021.openinfra.asia/schedule.html)
 > - [2021 Amazon Cloud Technology China Summit Dev Day, "Create a Distributed Database Ecosystem for Enterprise Cloud Applications"](https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/)
 > - [Great Open Source Developers, "How I started my 'Great Developer' Journey"](https://www.huodongxing.com/event/7613387577423?utm_source=主页&utm_medium=banner_291022504540&utm_campaign=homepage&qd=6628363043952&type=SITE_BANNER_AD_CLICK)
 > - [Open Source India 2021,"How to Create a Distributed Database Ecosystem for Enterprise Cloud Applications"](https://www.opensourceindia.in/conference-agenda-2021/)
 > - [OADC Open Atom Developer Conference, "Apache ShardingSphere Open Source Distributed Database Ecosystem in Practice"](https://mp.weixin.qq.com/s/X4nOq5YmmMn9XMp_nItOpw)
 > - [Named CAICT 2021 OSCAR "Top Open Source Personality"](https://cdn.modb.pro/db/111305)
-> - [2021 The 6th China Open Source Annual Conference (COSCon'21) Main Forum “Future Exploration and Practice of Open Source Community”](https://www.bilibili.com/video/BV13T4y1d7dk?spm_id_from=333.999.0.0)
+> - [2021 The 6th China Open Source Annual Conference (COSCon'21) Main Forum "Future Exploration and Practice of Open Source Community"](https://www.bilibili.com/video/BV13T4y1d7dk?spm_id_from=333.999.0.0)
 > - [Roundtable Discussion "Exploration of the Development and Commercialization of Cloud-Native Open Source" at Tencent Digital Ecosystem Conference](https://des.cloud.tencent.com/2021/?code=031h4e0001JePM176K100naEBn2h4e0m&state=STATE)
-> - [AWS She Builds Summit，“From DBA & Open Source Contributor to CTO & Co-Founder of a Commercial Open Source Company”](https://aws-shebuilds-summit-2021.splashthat.com/)
+> - [AWS She Builds Summit，"From DBA & Open Source Contributor to CTO & Co-Founder of a Commercial Open Source Company"](https://aws-shebuilds-summit-2021.splashthat.com/)
 > - [Named "AWS Data Hero"](https://aws.amazon.com/cn/blogs/aws/meet-the-latest-aws-heroes-november-2021/)
 > - [PGConf.Asia 2021 "Setup the distributed database system for PostgreSQL"](https://2021.postgresconf.cn/speech/10)
 > - [2021 CHINA SOFTWARE TECHNOLOGY CONFERENCE](http://www.softcon.cn/)
 
 > **2020**    
 > - [Named "2020 China Open Source Pioneer"](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
-> - [The 2020 Annual Summit of the Open Atom Open Source Foundation - "Create a Diverse and Active Open Source Community Step by Step”](https://segmentfault.com/area/openatomcon-2020)
+> - [The 2020 Annual Summit of the Open Atom Open Source Foundation - "Create a Diverse and Active Open Source Community Step by Step"](https://segmentfault.com/area/openatomcon-2020)
 > - [2020 China Software Technology Conference, "Database Architecture Evolution of Distributed Database Middleware"](http://www.softcon.cn)
-> - [Open Source Software Supply Chain Summit 2020, "Apache ShardingSphere Distributed Database Ecosystem Architecture Evolution”](https://isrc.iscas.ac.cn/summer2020/#/summitmeeting)
+> - [Open Source Software Supply Chain Summit 2020, "Apache ShardingSphere Distributed Database Ecosystem Architecture Evolution"](https://isrc.iscas.ac.cn/summer2020/#/summitmeeting)
 > - [PGConf.Asia (PostgreSQL Conference Asia)](https://mp.weixin.qq.com/s/7RpKbWPytzMH9VSgjxxCoA)
-> - Apache Roadshow China 2020, “Minimalist Strategy for Distributed Database Middleware Ecosystem Use”
+> - Apache Roadshow China 2020, "Minimalist Strategy for Distributed Database Middleware Ecosystem Use"
 > - [ApacheCon @Home 2020 - Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&t=165s) (In English)
 > - TiD 2020 Quality Competitiveness Conference, "Distributed Database and Service Governance in Massive Internet Data Environment"
 > - OSC Vol. 89, "Apache ShardingSphere architecture evolution driven by open source"
@@ -145,16 +157,16 @@ widget:
 > - 2019 PostgreSQL China Conference, "The Integration of JD Digital Science and Technology Distributed Transaction JDTX and Database Middleware Apache ShardingSphere"
 > - 2019 China Open Source Annual Conference, "0 to 1: Apache ShardingSphere Open Source Ecosystem Evolution"
 > - System Architect Conference China 2019, "ApacheShardingSphere Data Platform Evolution"
-> - 2019 HUAWEI Connection + Apache meetup, “Insight into the Distributed Transaction Solution Developed by ShardingSphere and ServiceComb”
+> - 2019 HUAWEI Connection + Apache meetup, "Insight into the Distributed Transaction Solution Developed by ShardingSphere and ServiceComb"
 > - 2019 JD Technology Salon, "Pratice and Exploration of Distributed Database Middleware in JD Digital Science and Technology Production"
 > - 2019 DBAPlus Vol. 183, "Practice of Distributed Database Middleware in JD.com"
 > - 2019 Tech Day of SequoiaDB, "Analysis and Application of Open Source Distributed Database Middleware Architecture"
 
 > **2018**    
-> - 2018 PostgreSQL China Conference, "Apache ShardingSphere (Incubating) Cloud Architecture Evolution”
-> - IAS 2018 Internet Architecture Summit, "Apache ShardingSphere (Incubating) Cloud Architecture Evolution”
+> - 2018 PostgreSQL China Conference, "Apache ShardingSphere (Incubating) Cloud Architecture Evolution"
+> - IAS 2018 Internet Architecture Summit, "Apache ShardingSphere (Incubating) Cloud Architecture Evolution"
 > - 2018 China Software Technology Conference, "How to Build the Cloud Architecture of Distributed Database Middleware"
-> - MSUP The Road to Excellence in R&D, "How to Build the Cloud Architecture of Distributed Database Middleware”
+> - MSUP The Road to Excellence in R&D, "How to Build the Cloud Architecture of Distributed Database Middleware"
 > - 2018 Data Technology Carnival, "Distributed Database Architecture Evolution"
 > - 58 Zhuanzhuan Technical Seminar, "Apache ShardingSphere Kernel Analysis"
 > - Beike Finance Technical Seminar, "A Preliminary Exploration of Apache ShardingSphere Ecosystem"
