@@ -70,6 +70,12 @@ widget:
 - MySQL 数据库管理（数据建模、修复、备份、性能等)
 
 ###  活动经历
+> **2023**  
+> - [2023年6月30日 深圳 GIAC 全球架构师大会 数据库分布式与云化的架构选型] (https://giac.msup.com.cn/2023sz/course?id=16945&qd=jspanjuan)
+> - [2023年6月28日 上海 亚马逊云科技峰会 圆桌论坛 开发者如何利用开源挖掘数据价值 ] (https://summit.webinar.amazoncloud.cn/2023/index.html?source=LteLH13gJh4PIt8PZ+0oYC0GYQlN8UdCk1Cw8zVgIKlTAVwfqWPfKQ0bmfcbOMoV&bd_vid=9127208350229962498)
+> - [2023年6月28日 上海 亚马逊云科技峰会 主题分享 借助云服务的生态特性，打造安全、弹性、高性能的分布式数据库平台] (https://summit.webinar.amazoncloud.cn/2023/index.html?source=LteLH13gJh4PIt8PZ+0oYC0GYQlN8UdCk1Cw8zVgIKlTAVwfqWPfKQ0bmfcbOMoV&bd_vid=9127208350229962498) 
+> - [2021年5月28日 深圳 亚马逊云科技 Community Day 主题分享 借助开源生态，打造个人、社区、企业的全球影响力] (https://dev.amazoncloud.cn/activity/activityDetail?id=645a17374b2abb2a75068e76&catagoryName=communityDay&sc_medium=owned&sc_campaign=communityDay&sc_channel=UG&video=1)
+> - [2023年4月19日 北京 第二届中国国际软件发展大会开源雨林 主题分享 Apache ShardingSphere 建设global社区探索与成长] ( https://mp.weixin.qq.com/s?__biz=MzIxMTgwMjM2Mg==&mid=2247487828&idx=1&sn=af973c99ad0e54ba46e04ccffb5dc7c8&chksm=974e90c1a03919d79f2a7dcc98a8e95ca6e51bb200cfad8ecdd6c7a22ee5467fe1bc32273595&scene=27)
 
 > **2022**   
 > - [腾源会「WeOpen Talk」“从女工程师转变成开源商业化 Infra 公司创始人，痛并快乐着”](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
@@ -159,7 +165,7 @@ widget:
 
 > **个人发展**
 > - [《新程序员》｜90 后 CTO 如何成为国内首位女性 Apache Member？](https://mp.weixin.qq.com/s/TpRqA5gAuK1c1Zx4nCz7RA)
-> - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
+> - [Hero journey-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A talking in OS-CHINA conference](https://mp.weixin.qq.com/s/UaFpCMv_UI_QH4RVhJPdew)
