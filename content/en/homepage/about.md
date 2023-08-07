@@ -51,7 +51,7 @@ widget:
 | **Gender** | Female |
 | **City** | Beijing, China |
 | **Professional Title** | SphereEx Co-Founder & CTO |
-| **Community Title** | Apache Member & Incubator Mentor &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph Mentor &#124; AWS Data Hero &#124; Tencent Cloud TVP. |
+| **Community Title** | Apache Member & Incubator Mentor &#124; Apache ShardingSphere PMC &#124; Apache [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & [HugeGraph](https://hugegraph.apache.org/) Mentor &#124; AWS Data Hero &#124; Tencent Cloud TVP. |
 | **E-mail** | <a href="mailto:panjuan@apache.org">panjuan@apache.org</a> |
 | **Twitter** | [tristaZero](https://twitter.com/tristaZero) |
     
@@ -62,22 +62,33 @@ widget:
 
 ###  Career
 
-- SphereEx Co-Founder & CTO
-- Senior DBA at [JD.com](http://JD.com)
-- PMC at Apache ShardingSphere - Distributed Database Middleware Platform
-- Core Developer at JDTX - Distributed Transaction Middleware Platform (JDTX, None-OpenSource)
-- Head of Automated Database Management Platform (MySQL, Python, DevOps)
-- Database Management for MySQL (Data modeling, Recovery, Back up, Performance etc.)
-
+- **SphereEx Co-founder & CTO, April 2021-present, SphereEx**
+  1. AWS Data Hero
+  2. Mentor at China Mulan Open Source Community
+  3. Tencent Cloud TVP
+  4. 2020 China Open Source Pioneer
+  5. 2021 OSCAR Open Source Pioneer
+  6. CSDN 2021 IT Leader of the Year
+  7. Globee Awards "Chief Technology Officier of the Year"
+  8. Author of [《A Definitive Guide to Apache ShardingSphere》](https://www.amazon.com/Definitive-Guide-Apache-ShardingSphere-distributed/dp/1803239425)
+  9. Author of [“Apache ShardingSphere, A Holistic and Pluggable Platform for Data Sharding”](https://ieeexplore.ieee.org/document/9835604) (ICDE)
+- **Senior Distributed Database Engineer, January 2018-April 2021, JD.com**
+  1. Responsible for the research and development of the distributed cloud database platform
+  2. Responsible for the research and development of the distributed transaction engine
+  3. Apache Software Foundation Incubator Mentor & Member
+  4. [Apache ShardingSphere](https://shardingsphere.apache.org/) Maintainer
+  5. [Apache brpc](https://github.com/apache/incubator-brpc) & [Apache AGE](https://github.com/apache/incubator-age) & [Aache HugeGraph](https://hugegraph.apache.org/) mentor
+- **Senior DBA Engineer, January 2016-January 2018, JD.com**
+  1. Responsible for the operation and management of large-scale MySQL/Oracle database cluster
+  2. Responsible for the architecture and development of the database automation management platform (MySQL/Oracle, Python, DevOps)
+     
 ###  Event & Conference Appearances
 
 > **2023**
 > - [2023/06/29	Conf42: Quantum Computing 2023, "Dynamic data masking & encryption for MySQL/PostgreSQL with no code changes"](https://www.conf42.com/quantum2023)
 > - [2023/05/23	DevDays Europe 2023, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://devdays.lt/#)
 > - [2023/05/11	Women in Tech Global Conference "From IC to CTO, the thinking and story of this title change from woman perspective"](https://www.womentech.net/speaker/Trista/Pan/77175)
-> 
 > - [2023/05/04	Conf42.com: Site Reliability Engineering (SRE) 2023, "How to achieve the scalability, high availability, and elastic ability of your database infrastructure on Kubernetes"](https://www.conf42.com/sre2023)
->  
 > - [2023/04/20	Conf42: Golang 2023, "Create the distributed database on Kubernetes leveraging your existing monolithic database"](https://www.conf42.com/golang2023)
 > - [2023/04/20	Big Data Days 2023, "Build a Big Data Business Around Open Source: A Handbook for Founders & Initial Committers of Successful Open Source Projects"](https://events.bigdataframework.org/BigDataDays2023?lang=en#/speakers?lang=en)
 > - [2023/03/30	Conf42 Cloud Native 2023, "Automatically shard and scale-out your traditional databases on Kubernetes for true digital transformation"](https://www.conf42.com/cloud2023)
@@ -85,9 +96,9 @@ widget:
 monolithic database"](https://warszawskiedniinformatyki.pl/en/)
 > - [2023/02/21	Java Devs'23 Online Summit, "Automatically shard and scale-out your traditional databases on Kubernates for true digital transformation"](https://events.geekle.us/java23/)
 > - [Conf42 DevOps 2023](conf42.com/devops2023)
-> - [2022 Juejin Future Conference](http://conf.juejin.cn/future2022/?utm_source=1223gzh)
 
-> **2022**   
+> **2022**
+> - [2022 Juejin Future Conference](http://conf.juejin.cn/future2022/?utm_source=1223gzh) 
 > - [Tencent Cloud WeOpen「WeOpen Talk」](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
 > - [FOSDEM 2022, "PostgreSQL Distributed & Secure Database Ecosystem Building"](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
 > - [Subsurface Live Winter 2022, "From DBA & Open Source Contributor to CTO & Co-Founder"](https://www.dremio.com/subsurface/live/juan-pan/)
@@ -181,6 +192,8 @@ monolithic database"](https://warszawskiedniinformatyki.pl/en/)
 
 > **Personal Development**
 > - [InfoQ｜ The Journey from Underrepresented IC to CTO: How Open Source Helped](https://www.infoq.com/articles/breaking-barriers-open-source/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
+> - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
+> - [New Programmer | How Did a Millenial CTO Become the First Female Apache Member in China?](https://mp.weixin.qq.com/s/TpRqA5gAuK1c1Zx4nCz7RA)
 > - [Hero journey-A story about exploring an open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
@@ -189,21 +202,20 @@ monolithic database"](https://warszawskiedniinformatyki.pl/en/)
 > - [A talking in PostgreSQL China conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
 > - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
 > - [Juan Pan: Create a Diverse and Active Open-Source Community Step by Step](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
-> - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)
-> - [New Programmer | How Did a Millenial CTO Become the First Female Apache Member in China?](https://mp.weixin.qq.com/s/TpRqA5gAuK1c1Zx4nCz7RA)
 
 > **Technical**
 > - [InfoQ｜Creating a Secure Distributed Database Cluster Leveraging Your Existing Database Management System](https://www.infoq.com/articles/secure-distributed-database-cluster/)
-> - [Stack Overflow: How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
+> - [InfoQ｜Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
 > - [InfoQ｜The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/)
+> - [Stack Overflow: How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 > - [The practical solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
 > - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) 
-> - [InfoQ｜Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
 
-###  Audio
+###  Podcast
+- [The Stack Overflow Podcast｜China’s only female Apache member on the rise of open source in China](https://the-stack-overflow-podcast.simplecast.com/episodes/chinas-only-female-apache-member-on-the-rise-of-open-source-in-china)
 - [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (Guest)
 - [How do we build Apache ShardingSphere community (Part two)](https://www.ximalaya.com/keji/37853515/308619842) (Guest)
 - [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0) (Guest)
@@ -218,10 +230,9 @@ monolithic database"](https://warszawskiedniinformatyki.pl/en/)
 - [The Data Way Vol.03 Want to quit? There is a lot a DBA can do](http://xima.tv/1_AvNnul?_sonic=0)
 - [The Data Way Vol.05 There is a battle between capital and open source](http://xima.tv/1_B65poz?_sonic=0)
 - [Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)
-- [The Stack Overflow Podcast｜China’s only female Apache member on the rise of open source in China](https://the-stack-overflow-podcast.simplecast.com/episodes/chinas-only-female-apache-member-on-the-rise-of-open-source-in-china)
 
 ###  Video
+- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2) (Speaker, in English)
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (Speaker)
 - [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (Speaker)
 - [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (Speaker)
-- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2) (Speaker, in English)
