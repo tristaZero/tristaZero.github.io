@@ -51,7 +51,7 @@ widget:
 | **性别** | 女 |
 | **城市** | 北京, 中国 |
 | **职位** | SphereEx 联合创始人 & CTO |
-| **社区职位** | Apache Member & 孵化器导师 &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & [HugeGraph(https://hugegraph.apache.org/) Mentor &#124; AWS Data Hero &#124; Tencent Cloud TVP. |
+| **社区职位** | Apache Member & 孵化器导师 &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & [HugeGraph](https://hugegraph.apache.org/) Mentor &#124; AWS Data Hero &#124; Tencent Cloud TVP. |
 | **E-mail** | <a href="mailto:panjuan@apache.org">panjuan@apache.org</a> |
 | **Twitter** | [tristaZero](https://twitter.com/tristaZero) |
     
@@ -62,7 +62,7 @@ widget:
 
 ###  职业生涯
 
-- **SphereEx 联合创始人 & CTO, 2021年4月-至今，SphereEx**
+- **联合创始人 & CTO, 2021年4月-至今，SphereEx**
   1. AWS Data Hero
   2. 中国木兰开源社区导师
   3. 腾讯云 TVP
@@ -77,7 +77,7 @@ widget:
   2. 负责京东金融分布式事务引擎及平台(关系型数据库强一致性分布式事务引擎)的研发
   3. Apache开源软件基金会顶级开源项目 [Apache ShardingSphere](https://shardingsphere.apache.org/) Maintainer
   4. Apache开源软件基金会孵化器导师 & memeber
-  5. [Apache brpc](https://github.com/apache/incubator-brpc) & [Apache AGE](https://github.com/apache/incubator-age) & [Aache HugeGraph](https://hugegraph.apache.org/) 社区导师
+  5. [Apache brpc](https://github.com/apache/incubator-brpc) & [Apache AGE](https://github.com/apache/incubator-age) & [Aache HugeGraph](https://hugegraph.apache.org/) 开源项目导师
 - **高级DBA工程师，2016年1月-2018年1月，京东**
   1. 负责京东金融生产大规模 MySQL/Oracle 数据库设计、运维、管理工作
   2. 负责京东金融数据库自动化运维管理平台的设计和研发工作（MySQL/Oracle, Python, DevOps）
