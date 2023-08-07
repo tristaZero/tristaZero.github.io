@@ -3,7 +3,7 @@ title: Trista Pan
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx Co-Founder & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent Cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the "2020 China Open-Source Pioneer" award, the "2021 OSCAR 2021 Top Open Source Pioneer" and CSDN's 2021 "IT Leading Personality". Her paper "Apache ShardingSphere, A Holistic and Pluggable Platform for Data Sharding" was published on ICDE in 2022. Most recently in 2022 she was voted as "Chief Technology Officer of the Year" by Globee Awards. As the first author, she wrote a book titled <em> A Definitive Guide to Apache ShardingSphere </em> which was published by Packt in 2022.<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
+bio: SphereEx Co-Founder & CTO, Apache Member & Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent Cloud TVP.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem and open-source community. Recipient of the "2020 China Open-Source Pioneer" award, the "2021 OSCAR 2021 Top Open Source Pioneer" and CSDN's 2021 "IT Leading Personality". Her paper "Apache ShardingSphere, A Holistic and Pluggable Platform for Data Sharding" was published on ICDE in 2022. Most recently in 2022, she was voted as "Chief Technology Officer of the Year" by Globee Awards. As the first author, she wrote a book titled <em> A Definitive Guide to Apache ShardingSphere </em> which was published by Packt in 2022.<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -62,7 +62,7 @@ widget:
 
 ###  Career
 
-- **SphereEx Co-founder & CTO, April 2021-present, SphereEx**
+- **Co-founder & CTO, April 2021-present, SphereEx**
   1. AWS Data Hero
   2. Mentor at China Mulan Open Source Community
   3. Tencent Cloud TVP
@@ -85,16 +85,16 @@ widget:
 ###  Event & Conference Appearances
 
 > **2023**
-> - [2023/06/29	Conf42: Quantum Computing 2023, "Dynamic data masking & encryption for MySQL/PostgreSQL with no code changes"](https://www.conf42.com/quantum2023)
-> - [2023/05/23	DevDays Europe 2023, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://devdays.lt/#)
-> - [2023/05/11	Women in Tech Global Conference "From IC to CTO, the thinking and story of this title change from woman perspective"](https://www.womentech.net/speaker/Trista/Pan/77175)
-> - [2023/05/04	Conf42.com: Site Reliability Engineering (SRE) 2023, "How to achieve the scalability, high availability, and elastic ability of your database infrastructure on Kubernetes"](https://www.conf42.com/sre2023)
-> - [2023/04/20	Conf42: Golang 2023, "Create the distributed database on Kubernetes leveraging your existing monolithic database"](https://www.conf42.com/golang2023)
-> - [2023/04/20	Big Data Days 2023, "Build a Big Data Business Around Open Source: A Handbook for Founders & Initial Committers of Successful Open Source Projects"](https://events.bigdataframework.org/BigDataDays2023?lang=en#/speakers?lang=en)
-> - [2023/03/30	Conf42 Cloud Native 2023, "Automatically shard and scale-out your traditional databases on Kubernetes for true digital transformation"](https://www.conf42.com/cloud2023)
-> - [2023/03/24	Warsaw IT Days 2023, "Create the distributed database on Kubernetes leveraging your existing
+> - [Conf42: Quantum Computing 2023, "Dynamic data masking & encryption for MySQL/PostgreSQL with no code changes"](https://www.conf42.com/quantum2023)
+> - [DevDays Europe 2023, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://devdays.lt/#)
+> - [Women in Tech Global Conference "From IC to CTO, the thinking and story of this title change from woman perspective"](https://www.womentech.net/speaker/Trista/Pan/77175)
+> - [Conf42.com: Site Reliability Engineering (SRE) 2023, "How to achieve the scalability, high availability, and elastic ability of your database infrastructure on Kubernetes"](https://www.conf42.com/sre2023)
+> - [Conf42: Golang 2023, "Create the distributed database on Kubernetes leveraging your existing monolithic database"](https://www.conf42.com/golang2023)
+> - [Big Data Days 2023, "Build a Big Data Business Around Open Source: A Handbook for Founders & Initial Committers of Successful Open Source Projects"](https://events.bigdataframework.org/BigDataDays2023?lang=en#/speakers?lang=en)
+> - [Conf42 Cloud Native 2023, "Automatically shard and scale-out your traditional databases on Kubernetes for true digital transformation"](https://www.conf42.com/cloud2023)
+> - [Warsaw IT Days 2023, "Create the distributed database on Kubernetes leveraging your existing
 monolithic database"](https://warszawskiedniinformatyki.pl/en/)
-> - [2023/02/21	Java Devs'23 Online Summit, "Automatically shard and scale-out your traditional databases on Kubernates for true digital transformation"](https://events.geekle.us/java23/)
+> - [Java Devs'23 Online Summit, "Automatically shard and scale-out your traditional databases on Kubernates for true digital transformation"](https://events.geekle.us/java23/)
 > - [Conf42 DevOps 2023](conf42.com/devops2023)
 
 > **2022**
