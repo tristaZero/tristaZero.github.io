@@ -51,31 +51,55 @@ widget:
 | **性别** | 女 |
 | **城市** | 北京, 中国 |
 | **职位** | SphereEx 联合创始人 & CTO |
-| **社区职位** | Apache Member & 孵化器导师 &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & HugeGraph Mentor &#124; AWS Data Hero &#124; Tencent Cloud TVP. |
+| **社区职位** | Apache Member & 孵化器导师 &#124; Apache ShardingSphere PMC &#124; Apache Incubator [brpc](https://github.com/apache/incubator-brpc) & [AGE](https://github.com/apache/incubator-age) & [HugeGraph(https://hugegraph.apache.org/) Mentor &#124; AWS Data Hero &#124; Tencent Cloud TVP. |
 | **E-mail** | <a href="mailto:panjuan@apache.org">panjuan@apache.org</a> |
 | **Twitter** | [tristaZero](https://twitter.com/tristaZero) |
     
 ###  教育经历
 
-- **硕士**, 2014年9月-2016年6月,大连海事大学视觉模式检索与云计算专业
-- **学士**, 2010年9月-2014年6月,河北师范大学软件开发专业
+- **硕士**, 2014年9月-2016年6月, 大连海事大学视觉模式检索与云计算专业
+- **学士**, 2010年9月-2014年6月, 河北师范大学软件开发专业
 
 ###  职业生涯
 
 - SphereEx 联合创始人 & CTO
-- [京东](http://JD.com)高级 DBA
-- 分布式数据库中间件平台 PMC（Apache ShardingSphere）
-- 分布式交易中间件平台核心开发者（JDTX, 非开源）
-- 负责自动化数据库管理平台（MySQL, Python, DevOps）
-- MySQL 数据库管理（数据建模、修复、备份、性能等)
+  1. AWS Data Hero
+  2. 中国木兰开源社区导师
+  3. 腾讯云 TVP
+  4. 2020 中国开源先锋人物
+  5. 2021 OSCAR 尖峰开源人物
+  6. CSDN 2021 年度 IT 领军人物
+  7. Globee Awards “Chief Technology Officier of the Year
+  8. 第一作者出版海外书籍《A Definitive Guide to Apache ShardingSphere》
+  9. 在 ICDE 发表论文 “Apache ShardingSphere，A Holistic and Pluggable Platform for Data Sharding”
+- 高级数据库中间件研发工程师，2018年1月-2021年4月，京东
+  1. 负责京东金融分布式云数据库中间件平台的研发
+  2. 负责京东金融分布式事务引擎及平台(关系型数据库强一致性分布式事务引擎)的研发
+  3. Apache开源软件基金会顶级开源项目 [Apache ShardingSphere](https://shardingsphere.apache.org/) Maintainer
+  4. Apache开源软件基金会孵化器导师 & memeber
+  5. [Apache brpc](https://github.com/apache/incubator-brpc) & [Apache AGE](https://github.com/apache/incubator-age) & [Aache HugeGraph(https://hugegraph.apache.org/) 社区导师
+- 高级DBA工程师，2016年1月-2018年1月，京东
+  1. 负责京东金融生产大规模 MySQL/Oracle 数据库设计、运维、管理工作
+  2. 负责京东金融数据库自动化运维管理平台的设计和研发工作（MySQL/Oracle, Python, DevOps）
 
 ###  活动经历
 > **2023**  
-> - [2023年6月30日 深圳 GIAC 全球架构师大会 数据库分布式与云化的架构选型](https://giac.msup.com.cn/2023sz/course?id=16945&qd=jspanjuan)
-> - [2023年6月28日 上海 亚马逊云科技峰会 圆桌论坛 开发者如何利用开源挖掘数据价值 ](https://summit.webinar.amazoncloud.cn/2023/index.html?source=LteLH13gJh4PIt8PZ+0oYC0GYQlN8UdCk1Cw8zVgIKlTAVwfqWPfKQ0bmfcbOMoV&bd_vid=9127208350229962498)
-> - [2023年6月28日 上海 亚马逊云科技峰会 主题分享 借助云服务的生态特性，打造安全、弹性、高性能的分布式数据库平台](https://summit.webinar.amazoncloud.cn/2023/index.html?source=LteLH13gJh4PIt8PZ+0oYC0GYQlN8UdCk1Cw8zVgIKlTAVwfqWPfKQ0bmfcbOMoV&bd_vid=9127208350229962498) 
-> - [2021年5月28日 深圳 亚马逊云科技 Community Day 主题分享 借助开源生态，打造个人、社区、企业的全球影响力](https://dev.amazoncloud.cn/activity/activityDetail?id=645a17374b2abb2a75068e76&catagoryName=communityDay&sc_medium=owned&sc_campaign=communityDay&sc_channel=UG&video=1)
-> - [2023年4月19日 北京 第二届中国国际软件发展大会开源雨林 主题分享 Apache ShardingSphere 建设global社区探索与成长](https://mp.weixin.qq.com/s?__biz=MzIxMTgwMjM2Mg==&mid=2247487828&idx=1&sn=af973c99ad0e54ba46e04ccffb5dc7c8&chksm=974e90c1a03919d79f2a7dcc98a8e95ca6e51bb200cfad8ecdd6c7a22ee5467fe1bc32273595&scene=27)
+> - [GIAC 全球架构师大会 数据库分布式与云化的架构选型](https://giac.msup.com.cn/2023sz/course?id=16945&qd=jspanjuan)
+> - [亚马逊云科技峰会 圆桌论坛 开发者如何利用开源挖掘数据价值 ](https://summit.webinar.amazoncloud.cn/2023/index.html?source=LteLH13gJh4PIt8PZ+0oYC0GYQlN8UdCk1Cw8zVgIKlTAVwfqWPfKQ0bmfcbOMoV&bd_vid=9127208350229962498)
+> - [亚马逊云科技峰会 主题分享 借助云服务的生态特性，打造安全、弹性、高性能的分布式数据库平台](https://summit.webinar.amazoncloud.cn/2023/index.html?source=LteLH13gJh4PIt8PZ+0oYC0GYQlN8UdCk1Cw8zVgIKlTAVwfqWPfKQ0bmfcbOMoV&bd_vid=9127208350229962498) 
+> - [深圳 亚马逊云科技 Community Day 主题分享 借助开源生态，打造个人、社区、企业的全球影响力](https://dev.amazoncloud.cn/activity/activityDetail?id=645a17374b2abb2a75068e76&catagoryName=communityDay&sc_medium=owned&sc_campaign=communityDay&sc_channel=UG&video=1)
+> - [第二届中国国际软件发展大会开源雨林 主题分享 Apache ShardingSphere 建设global社区探索与成长](https://mp.weixin.qq.com/s?__biz=MzIxMTgwMjM2Mg==&mid=2247487828&idx=1&sn=af973c99ad0e54ba46e04ccffb5dc7c8&chksm=974e90c1a03919d79f2a7dcc98a8e95ca6e51bb200cfad8ecdd6c7a22ee5467fe1bc32273595&scene=27)
+> - [Conf42: Quantum Computing 2023, "Dynamic data masking & encryption for MySQL/PostgreSQL with no code changes"](https://www.conf42.com/quantum2023)
+> - [DevDays Europe 2023, "Online OLTP computing and traffic governance as a service for true digital transformation"](https://devdays.lt/#)
+> - [Women in Tech Global Conference "From IC to CTO, the thinking and story of this title change from woman perspective"](https://www.womentech.net/speaker/Trista/Pan/77175)
+> - [Conf42.com: Site Reliability Engineering (SRE) 2023, "How to achieve the scalability, high availability, and elastic ability of your database infrastructure on Kubernetes"](https://www.conf42.com/sre2023)
+> - [Conf42: Golang 2023, "Create the distributed database on Kubernetes leveraging your existing monolithic database"](https://www.conf42.com/golang2023)
+> - [Big Data Days 2023, "Build a Big Data Business Around Open Source: A Handbook for Founders & Initial Committers of Successful Open Source Projects"](https://events.bigdataframework.org/BigDataDays2023?lang=en#/speakers?lang=en)
+> - [Conf42 Cloud Native 2023, "Automatically shard and scale-out your traditional databases on Kubernetes for true digital transformation"](https://www.conf42.com/cloud2023)
+> - [Warsaw IT Days 2023, "Create the distributed database on Kubernetes leveraging your existing
+monolithic database"](https://warszawskiedniinformatyki.pl/en/)
+> - [Java Devs'23 Online Summit, "Automatically shard and scale-out your traditional databases on Kubernates for true digital transformation"](https://events.geekle.us/java23/)
+> - [Conf42 DevOps 2023](conf42.com/devops2023)
 
 > **2022**   
 > - [腾源会「WeOpen Talk」“从女工程师转变成开源商业化 Infra 公司创始人，痛并快乐着”](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
@@ -165,6 +189,10 @@ widget:
 
 > **个人发展**
 > - [《新程序员》｜90 后 CTO 如何成为国内首位女性 Apache Member？](https://mp.weixin.qq.com/s/TpRqA5gAuK1c1Zx4nCz7RA)
+> - [InfoQ｜ The Journey from Underrepresented IC to CTO: How Open Source Helped](https://www.infoq.com/articles/breaking-barriers-open-source/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
+> - [潘娟：从女工程师转变成开源商业化 Infra 公司创始人，痛并快乐着](https://xie.infoq.cn/article/04e177d82c4e42c07f8082cf5)
+> - [SphereEx 斩获掘金引力榜“年度新锐企业”、“年度新锐人物”两项荣誉](https://cloud.tencent.com/developer/news/982373)
+> - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [Hero journey-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
@@ -173,19 +201,22 @@ widget:
 > - [A talking in PostgreSQL China conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
 > - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
 > - [潘娟：循序渐进打造活跃的多元化社区](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
-> - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ)
 
 > **技术解读**
 > - [InfoQ｜Creating a Secure Distributed Database Cluster Leveraging Your Existing Database Management System](https://www.infoq.com/articles/secure-distributed-database-cluster/)
-> - [Stack Overflow：How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 > - [InfoQ｜The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/)
+> - [InfoQ｜Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
+> - [下一代数据库分片架构的演进与革新](https://www.infoq.cn/article/XTpXQPIiKF72YHVkVGYq)
+> - [Kubernetes 环境下的数据库新命题](https://www.infoq.cn/article/YmtIViY6rEgkwSjfeA6i)
+> - [Stack Overflow：How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 > - [The practical solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
 > - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) 
 
 ###  播客
+- [The Stack Overflow Podcast｜China’s only female Apache member on the rise of open source in China](https://the-stack-overflow-podcast.simplecast.com/episodes/chinas-only-female-apache-member-on-the-rise-of-open-source-in-china)
 - [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (嘉宾)
 - [How do we build Apache ShardingSphere community (Part two)](https://www.ximalaya.com/keji/37853515/308619842) (嘉宾)
 - [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0) (嘉宾)
@@ -200,7 +231,6 @@ widget:
 - [The Data Way Vol.03 做到最后只能删库跑路？DBA 能做的还有很多](http://xima.tv/1_AvNnul?_sonic=0)
 - [The Data Way Vol.05 这里有一场资本与开源的 battle](http://xima.tv/1_B65poz?_sonic=0)
 - [Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)
-- [The Stack Overflow Podcast｜China’s only female Apache member on the rise of open source in China](https://the-stack-overflow-podcast.simplecast.com/episodes/chinas-only-female-apache-member-on-the-rise-of-open-source-in-china)
 
 ###  视频
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (演讲嘉宾)
