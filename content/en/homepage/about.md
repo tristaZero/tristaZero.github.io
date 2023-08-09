@@ -232,6 +232,13 @@ monolithic database"](https://warszawskiedniinformatyki.pl/en/)
 - [Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)
 
 ###  Video
+- [Dynamic data masking & encryption for MySQL/PostgreSQL | Trista Pan | Conf42 Quantum Computing 2023](https://www.youtube.com/watch?v=s7tHhyxuXg4)
+- [Online OLTP computing and traffic governance as a service | Trista Pan | Conf42 Kube Native 2022](https://www.youtube.com/watch?v=mv3I9V9I2Ls)
+- [Build a Big Data Business Around Open Source - Trista Pan](https://www.youtube.com/watch?v=n-c45TKy3nM)
+- [Trista Pan: Online OLTP Computing and Traffic Governance as a Service for True Digital Transformatio](https://www.youtube.com/watch?v=S4202apg9eQ)
+- [#FOSSBack: Juan Pan (Trista) – How to Grow and Mentor an Open Source Community](https://www.youtube.com/watch?v=6mpv2UCSFUg&t=8s)
+- [Achieve the scalability & elastic ability of your db infra on K8s | Trista Pan | Conf42 SRE 2023](https://youtu.be/ITLrpJzicPo)
+- [PostgreSQL Distributed & Secure Database Ecosystem Building - Trista Pan](https://youtu.be/F3Leb0uDCXs)
 - [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2) (Speaker, in English)
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (Speaker)
 - [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (Speaker)
