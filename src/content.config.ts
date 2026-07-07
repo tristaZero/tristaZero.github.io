@@ -12,6 +12,8 @@ const blog = defineCollection({
     featured: z.boolean().default(true),
     // Hide from production builds while writing.
     draft: z.boolean().default(false),
+    // Render the post's own markup verbatim (no prose wrapper / page header).
+    bare: z.boolean().default(false),
   }),
 });
 
