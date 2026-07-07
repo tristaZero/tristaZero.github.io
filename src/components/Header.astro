@@ -1,0 +1,68 @@
+---
+import { nav, profile } from "../data/site";
+import ThemeToggle from "./ThemeToggle.astro";
+
+const current = Astro.url.pathname.replace(/\/$/, "") || "/";
+const isActive = (href: string) => (href === "/" ? current === "/" : current.startsWith(href));
+---
+
+<header
+  class="sticky top-0 z-40 border-b border-neutral-200/70 bg-white/80 backdrop-blur dark:border-neutral-800/70 dark:bg-neutral-950/80"
+>
+  <div class="mx-auto flex h-16 max-w-5xl items-center justify-between px-4 sm:px-6">
+    <a href="/" class="flex items-center gap-2 font-semibold tracking-tight">
+      <span class="text-lg text-neutral-900 dark:text-neutral-100">{profile.name}</span>
+    </a>
+
+    <div class="flex items-center gap-1">
+      <nav class="hidden items-center gap-1 sm:flex" aria-label="Primary">
+        {
+          nav.map((item) => (
+            <a
+              href={item.href}
+              class:list={[
+                "rounded-md px-3 py-2 text-sm font-medium transition-colors",
+                isActive(item.href)
+                  ? "text-accent"
+                  : "text-neutral-600 hover:text-accent dark:text-neutral-300 dark:hover:text-accent",
+              ]}
+              aria-current={isActive(item.href) ? "page" : undefined}
+            >
+              {item.label}
+            </a>
+          ))
+        }
+      </nav>
+      <ThemeToggle />
+      <button
+        id="mobile-menu-btn"
+        type="button"
+        aria-label="Open menu"
+        class="rounded-md p-2 text-neutral-500 hover:bg-neutral-100 sm:hidden dark:text-neutral-400 dark:hover:bg-neutral-800"
+      >
+        <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16" /></svg>
+      </button>
+    </div>
+  </div>
+
+  <div id="mobile-menu" class="hidden border-t border-neutral-200/70 px-4 pb-4 sm:hidden dark:border-neutral-800/70">
+    <nav class="flex flex-col gap-1 pt-2" aria-label="Mobile">
+      {
+        nav.map((item) => (
+          <a
+            href={item.href}
+            class="rounded-md px-3 py-2 text-sm font-medium text-neutral-700 hover:bg-neutral-100 dark:text-neutral-200 dark:hover:bg-neutral-800"
+          >
+            {item.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>
+
+<script is:inline>
+  const btn = document.getElementById("mobile-menu-btn");
+  const menu = document.getElementById("mobile-menu");
+  btn?.addEventListener("click", () => menu?.classList.toggle("hidden"));
+</script>

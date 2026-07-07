@@ -1,0 +1,103 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import EntryCard from "../components/EntryCard.astro";
+import SocialIcons from "../components/SocialIcons.astro";
+import { profile, site } from "../data/site";
+import { featuredFeed, byKind } from "../data/index";
+
+const feed = featuredFeed(14);
+
+const archiveSections = [
+  { emoji: "📚", label: "Publications", href: "/archive#publications", count: byKind("publication").length, desc: "Peer-reviewed paper and book." },
+  { emoji: "✍️", label: "Articles", href: "/archive#articles", count: byKind("article").length, desc: "Long-form writing on databases, big data & open source." },
+  { emoji: "🗓️", label: "Activities", href: "/archive#activities", count: byKind("talk").length, desc: "Talks, panels & appearances, 2019–2026." },
+  { emoji: "🎙️", label: "Podcasts", href: "/archive#podcasts", count: byKind("podcast").length, desc: "Guest and host episodes." },
+  { emoji: "🎬", label: "Videos", href: "/archive#videos", count: byKind("video").length, desc: "Recorded talk sessions." },
+];
+---
+
+<BaseLayout>
+  <!-- Hero -->
+  <section class="mx-auto max-w-5xl px-4 pb-6 pt-16 sm:px-6 sm:pt-24">
+    <div class="flex flex-col items-start gap-8 sm:flex-row sm:items-center" data-reveal>
+      <div class="relative isolate shrink-0">
+        <div
+          class="absolute -inset-2 -z-10 rounded-full bg-gradient-to-tr from-accent/40 via-violet-500/30 to-sky-500/40 opacity-70 blur-xl"
+          aria-hidden="true"
+        >
+        </div>
+        <img
+          src={site.avatar}
+          alt={profile.name}
+          width="112"
+          height="112"
+          class="h-24 w-24 rounded-full object-cover shadow-lg shadow-black/10 ring-1 ring-white/60 sm:h-28 sm:w-28 dark:ring-white/10"
+        />
+      </div>
+      <div>
+        <h1 class="text-3xl font-bold tracking-tight text-neutral-900 sm:text-4xl dark:text-neutral-100">
+          {profile.name}
+        </h1>
+        <p class="mt-1 text-lg font-medium text-accent">{profile.role}</p>
+        <p class="mt-3 max-w-xl text-neutral-600 dark:text-neutral-300">{profile.tagline}</p>
+        <div class="mt-4 flex items-center gap-3">
+          <a
+            href="/about"
+            class="rounded-lg bg-accent px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-accent-hover"
+          >
+            About me
+          </a>
+          <SocialIcons />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest feed -->
+  <section class="mx-auto max-w-5xl px-4 py-10 sm:px-6" data-reveal>
+    <div class="mb-6 flex items-baseline justify-between">
+      <h2 class="flex items-center gap-2.5 text-xl font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">
+        <span class="h-5 w-1 rounded-full bg-gradient-to-b from-accent to-violet-500" aria-hidden="true"></span>
+        Latest
+      </h2>
+      <a href="/archive" class="text-sm font-medium text-neutral-500 hover:text-accent dark:text-neutral-400">
+        View all &rarr;
+      </a>
+    </div>
+    <p class="mb-6 max-w-2xl text-sm text-neutral-500 dark:text-neutral-400">
+      Recent articles, talks, podcasts, and videos worth reading or watching — newest first.
+    </p>
+    <div class="grid gap-3 sm:grid-cols-2">
+      {feed.map((entry) => <EntryCard entry={entry} />)}
+    </div>
+  </section>
+
+  <!-- Explore the archive -->
+  <section class="mx-auto max-w-5xl px-4 py-10 sm:px-6" data-reveal>
+    <h2 class="flex items-center gap-2.5 text-xl font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">
+      <span class="h-5 w-1 rounded-full bg-gradient-to-b from-sky-500 to-emerald-500" aria-hidden="true"></span>
+      Explore the archive
+    </h2>
+    <p class="mt-2 max-w-2xl text-sm text-neutral-500 dark:text-neutral-400">
+      Browse the full history of older articles and conference talks, plus podcasts and videos.
+    </p>
+    <div class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        archiveSections.map((s) => (
+          <a
+            href={s.href}
+            class="group card-lift rounded-xl border border-neutral-200/80 bg-white/60 p-5 backdrop-blur-sm hover:border-accent/50 hover:bg-white dark:border-neutral-800/80 dark:bg-neutral-900/40 dark:hover:bg-neutral-900/70"
+          >
+            <div class="flex items-baseline justify-between">
+              <h3 class="text-base font-semibold text-neutral-900 group-hover:text-accent dark:text-neutral-100">
+                <span class="mr-1.5" aria-hidden="true">{s.emoji}</span>{s.label}
+              </h3>
+              <span class="text-sm tabular-nums text-neutral-400">{s.count}</span>
+            </div>
+            <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">{s.desc}</p>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

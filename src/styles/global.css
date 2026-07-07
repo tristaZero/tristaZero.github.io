@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  /* Base page color lives on <html> so the fixed decorative layer can sit
+     between it and the (transparent) body content. */
+  html {
+    @apply bg-white;
+  }
+  /* Dark mode: a deep, tinted base with soft color washes instead of flat black. */
+  :root.dark {
+    background-color: #0f0e18;
+    background-image:
+      radial-gradient(55rem 55rem at 6% -12%, rgba(139, 108, 214, 0.24), transparent 60%),
+      radial-gradient(48rem 48rem at 106% 10%, rgba(226, 128, 150, 0.18), transparent 60%),
+      radial-gradient(52rem 52rem at 34% 116%, rgba(78, 166, 208, 0.2), transparent 62%);
+    background-attachment: fixed;
+  }
+  body {
+    @apply text-neutral-800 antialiased;
+  }
+  :root.dark body {
+    @apply text-neutral-200;
+  }
+}
+
+@layer components {
+  .gradient-text {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(115deg, #e8635f, #8b5cf6 52%, #0ea5e9);
+  }
+  /* Subtle lift used on interactive cards. */
+  .card-lift {
+    @apply transition-all duration-300 ease-out;
+  }
+  .card-lift:hover {
+    @apply -translate-y-0.5 shadow-lg shadow-black/[0.06];
+  }
+  :root.dark .card-lift:hover {
+    @apply shadow-black/40;
+  }
+}
+
+/* ---- Decorative animated background ---------------------------------- */
+.site-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+  /* faint dot grid */
+  background-image: radial-gradient(currentColor 1px, transparent 1px);
+  background-size: 24px 24px;
+  color: rgba(0, 0, 0, 0.04);
+}
+:root.dark .site-bg {
+  color: rgba(255, 255, 255, 0.05);
+}
+
+.blob {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(90px);
+  opacity: 0.55;
+  will-change: transform;
+}
+:root.dark .blob {
+  opacity: 0.42;
+}
+.blob-a {
+  width: 42rem;
+  height: 42rem;
+  top: -14rem;
+  left: -12rem;
+  /* soft rose */
+  background: radial-gradient(circle at 30% 30%, #fcd6d2, transparent 64%);
+  animation: drift-a 28s ease-in-out infinite;
+}
+.blob-b {
+  width: 36rem;
+  height: 36rem;
+  top: 18%;
+  right: -14rem;
+  /* soft lavender */
+  background: radial-gradient(circle at 30% 30%, #dcd3fb, transparent 64%);
+  animation: drift-b 34s ease-in-out infinite;
+}
+.blob-c {
+  width: 32rem;
+  height: 32rem;
+  bottom: -16rem;
+  left: 28%;
+  /* soft sky / mint */
+  background: radial-gradient(circle at 30% 30%, #cdeaf6, transparent 64%);
+  animation: drift-c 31s ease-in-out infinite;
+}
+
+@keyframes drift-a {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(4rem, 3rem) scale(1.06); }
+}
+@keyframes drift-b {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(-3.5rem, 2.5rem) scale(1.08); }
+}
+@keyframes drift-c {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(2.5rem, -3rem) scale(1.05); }
+}
+
+/* ---- Scroll reveal (only when JS is present) ------------------------- */
+.js [data-reveal] {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.js [data-reveal].is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    scroll-behavior: auto;
+  }
+  .blob {
+    animation: none !important;
+  }
+  .js [data-reveal] {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}

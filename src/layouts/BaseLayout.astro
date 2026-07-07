@@ -1,0 +1,81 @@
+---
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { site } from "../data/site";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+const { title, description = site.description } = Astro.props;
+const pageTitle = title ? `${title} — ${site.name}` : site.title;
+
+// Emoji favicon rendered as an inline SVG data URI (swap the emoji to taste).
+const faviconEmoji = "✨";
+const faviconSvg =
+  '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">' +
+  faviconEmoji +
+  "</text></svg>";
+const favicon = "data:image/svg+xml," + encodeURIComponent(faviconSvg);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href={favicon} />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta name="generator" content={Astro.generator} />
+    <script is:inline>
+      // Set theme before paint to avoid flash, and flag JS so scroll-reveal
+      // only hides content when it can be revealed again.
+      const root = document.documentElement;
+      root.classList.add("js");
+      const stored = localStorage.getItem("theme");
+      const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      if (stored === "dark" || (!stored && prefersDark)) {
+        root.classList.add("dark");
+      }
+    </script>
+  </head>
+  <body class="flex min-h-screen flex-col">
+    <div class="site-bg" aria-hidden="true">
+      <div class="blob blob-a"></div>
+      <div class="blob blob-b"></div>
+      <div class="blob blob-c"></div>
+    </div>
+    <Header />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+
+    <script is:inline>
+      // Reveal elements as they scroll into view.
+      const els = document.querySelectorAll("[data-reveal]");
+      const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (reduce || !("IntersectionObserver" in window)) {
+        els.forEach((el) => el.classList.add("is-visible"));
+      } else {
+        const io = new IntersectionObserver(
+          (entries) => {
+            entries.forEach((entry) => {
+              if (entry.isIntersecting) {
+                entry.target.classList.add("is-visible");
+                io.unobserve(entry.target);
+              }
+            });
+          },
+          { rootMargin: "0px 0px -8% 0px", threshold: 0.05 },
+        );
+        els.forEach((el) => io.observe(el));
+      }
+    </script>
+  </body>
+</html>

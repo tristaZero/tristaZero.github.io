@@ -1,0 +1,64 @@
+---
+import type { Entry } from "../data/types";
+import { kindLabel } from "../data/types";
+
+interface Props {
+  entry: Entry;
+}
+const { entry } = Astro.props;
+
+const kindStyles: Record<Entry["kind"], string> = {
+  publication: "bg-emerald-50 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300",
+  article: "bg-sky-50 text-sky-700 dark:bg-sky-950 dark:text-sky-300",
+  talk: "bg-violet-50 text-violet-700 dark:bg-violet-950 dark:text-violet-300",
+  podcast: "bg-amber-50 text-amber-700 dark:bg-amber-950 dark:text-amber-300",
+  video: "bg-rose-50 text-rose-700 dark:bg-rose-950 dark:text-rose-300",
+};
+
+const displayDate = entry.date.length === 4 ? entry.date : entry.date.slice(0, 7);
+const hasLink = Boolean(entry.url) && entry.url.length > 0 && !entry.promo;
+const Tag = hasLink ? "a" : "div";
+---
+
+<Tag
+  {...hasLink ? { href: entry.url, target: "_blank", rel: "noopener noreferrer" } : {}}
+  class:list={[
+    "group card-lift flex flex-col gap-1 rounded-xl border border-neutral-200/80 bg-white/60 p-4 backdrop-blur-sm dark:border-neutral-800/80 dark:bg-neutral-900/40",
+    hasLink
+      ? "hover:border-accent/50 hover:bg-white dark:hover:bg-neutral-900/70"
+      : "opacity-90",
+  ]}
+>
+  <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm">
+    <span class={`rounded-full px-2 py-0.5 text-xs font-medium ${kindStyles[entry.kind]}`}>
+      {kindLabel(entry.kind)}
+    </span>
+    <time class="tabular-nums text-neutral-400 dark:text-neutral-500">{displayDate}</time>
+    {
+      entry.source && (
+        <span class="text-neutral-500 dark:text-neutral-400">{entry.source}</span>
+      )
+    }
+    {
+      entry.role && (
+        <span class="text-neutral-400 dark:text-neutral-500">· {entry.role}</span>
+      )
+    }
+  </div>
+
+  <h3
+    class:list={[
+      "text-base font-medium leading-snug text-neutral-900 dark:text-neutral-100",
+      hasLink && "group-hover:text-accent",
+    ]}
+  >
+    {entry.title}
+    {
+      hasLink && (
+        <span class="ml-1 inline-block text-neutral-300 transition-transform group-hover:translate-x-0.5 group-hover:text-accent dark:text-neutral-600">
+          &rarr;
+        </span>
+      )
+    }
+  </h3>
+</Tag>

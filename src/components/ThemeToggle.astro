@@ -1,0 +1,26 @@
+---
+---
+
+<button
+  id="theme-toggle"
+  type="button"
+  aria-label="Toggle dark mode"
+  title="Toggle dark mode"
+  class="rounded-md p-2 text-neutral-500 transition-colors hover:bg-neutral-100 hover:text-accent dark:text-neutral-400 dark:hover:bg-neutral-800 dark:hover:text-accent"
+>
+  <svg class="h-5 w-5 dark:hidden" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+    <path d="M12 3a9 9 0 1 0 9 9c0-.46-.03-.91-.1-1.36a6 6 0 0 1-8.54-8.54c-.45-.07-.9-.1-1.36-.1Z" />
+  </svg>
+  <svg class="hidden h-5 w-5 dark:block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+    <path d="M12 4V2m0 20v-2m8-8h2M2 12h2m13.66-5.66 1.41-1.41M4.93 19.07l1.41-1.41m0-11.32L4.93 4.93m14.14 14.14-1.41-1.41M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z" />
+  </svg>
+</button>
+
+<script is:inline>
+  const toggle = document.getElementById("theme-toggle");
+  toggle?.addEventListener("click", () => {
+    const root = document.documentElement;
+    const isDark = root.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+  });
+</script>

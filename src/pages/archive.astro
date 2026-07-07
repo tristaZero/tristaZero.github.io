@@ -1,0 +1,100 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import EntryCard from "../components/EntryCard.astro";
+import { articlesByCategory, talksByYear, byKind } from "../data/index";
+
+const publications = byKind("publication");
+const articleGroups = articlesByCategory();
+const talkGroups = talksByYear();
+const podcasts = byKind("podcast");
+const videos = byKind("video");
+
+const sections = [
+  { id: "publications", label: "Publications" },
+  { id: "articles", label: "Articles" },
+  { id: "activities", label: "Activities" },
+  { id: "podcasts", label: "Podcasts" },
+  { id: "videos", label: "Videos" },
+];
+---
+
+<BaseLayout title="Archive" description="The full archive of Trista Pan's articles, conference talks, podcasts, and videos.">
+  <div class="mx-auto max-w-5xl px-4 py-16 sm:px-6">
+    <header class="mb-10">
+      <h1 class="text-3xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100">Archive</h1>
+      <p class="mt-2 max-w-2xl text-neutral-600 dark:text-neutral-300">
+        Every article, conference talk, podcast, and video — including older and community entries.
+      </p>
+      <nav class="mt-6 flex flex-wrap gap-2" aria-label="Sections">
+        {
+          sections.map((s) => (
+            <a
+              href={`#${s.id}`}
+              class="rounded-full border border-neutral-200 px-3 py-1 text-sm text-neutral-600 transition-colors hover:border-accent hover:text-accent dark:border-neutral-800 dark:text-neutral-300"
+            >
+              {s.label}
+            </a>
+          ))
+        }
+      </nav>
+    </header>
+
+    <!-- Publications -->
+    <section id="publications" data-reveal class="scroll-mt-20 py-8">
+      <h2 class="mb-6 text-2xl font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">Publications</h2>
+      <div class="grid gap-3 sm:grid-cols-2">
+        {publications.map((entry) => <EntryCard entry={entry} />)}
+      </div>
+    </section>
+
+    <!-- Articles -->
+    <section id="articles" data-reveal class="scroll-mt-20 border-t border-neutral-200/70 py-8 dark:border-neutral-800/70">
+      <h2 class="mb-6 text-2xl font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">Articles</h2>
+      {
+        articleGroups.map((group) => (
+          <div class="mb-8">
+            <h3 class="mb-3 text-sm font-semibold uppercase tracking-wide text-neutral-400 dark:text-neutral-500">
+              {group.category}
+            </h3>
+            <div class="grid gap-3 sm:grid-cols-2">
+              {group.items.map((entry) => <EntryCard entry={entry} />)}
+            </div>
+          </div>
+        ))
+      }
+    </section>
+
+    <!-- Activities -->
+    <section id="activities" data-reveal class="scroll-mt-20 border-t border-neutral-200/70 py-8 dark:border-neutral-800/70">
+      <h2 class="mb-6 text-2xl font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">Activities</h2>
+      {
+        talkGroups.map((group) => (
+          <div class="mb-8">
+            <h3 class="mb-3 text-sm font-semibold uppercase tracking-wide text-neutral-400 dark:text-neutral-500">
+              {group.year}
+            </h3>
+            <div class="grid gap-3 sm:grid-cols-2">
+              {group.items.map((entry) => <EntryCard entry={entry} />)}
+            </div>
+          </div>
+        ))
+      }
+    </section>
+
+    <!-- Podcasts -->
+    <section id="podcasts" data-reveal class="scroll-mt-20 border-t border-neutral-200/70 py-8 dark:border-neutral-800/70">
+      <h2 class="mb-6 text-2xl font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">Podcasts</h2>
+      <div class="grid gap-3 sm:grid-cols-2">
+        {podcasts.map((entry) => <EntryCard entry={entry} />)}
+      </div>
+    </section>
+
+    <!-- Videos -->
+    <section id="videos" data-reveal class="scroll-mt-20 border-t border-neutral-200/70 py-8 dark:border-neutral-800/70">
+      <h2 class="mb-6 text-2xl font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">Videos</h2>
+      <div class="grid gap-3 sm:grid-cols-2">
+        {videos.map((entry) => <EntryCard entry={entry} />)}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
