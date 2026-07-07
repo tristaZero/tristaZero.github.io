@@ -32,5 +32,5 @@ export const socials: Social[] = [
   { label: "GitHub", href: "https://github.com/tristaZero", icon: "github" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/panjuan", icon: "linkedin" },
   { label: "Twitter / X", href: "https://twitter.com/tristaZero", icon: "twitter" },
-  { label: "Email", href: "mailto:panjuan@apache.org", icon: "email" },
+  { label: "Email", href: "mailto:hannkenn0@gmail.com", icon: "email" },
 ];

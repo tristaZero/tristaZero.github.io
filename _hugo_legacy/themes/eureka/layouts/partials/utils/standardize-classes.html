@@ -1,4 +1,0 @@
-{{ $classes := replaceRE " +" " " . }}
-{{ $classes = strings.TrimLeft " " $classes }}
-{{ $classes = strings.TrimRight " " $classes }}
-{{ return $classes }}
