@@ -1,0 +1,56 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const posts = (
+  await getCollection("blog", ({ data }) =>
+    import.meta.env.PROD ? !data.draft : true,
+  )
+).sort((a, b) => b.data.date.localeCompare(a.data.date));
+
+const fmt = (d: string) =>
+  new Date(d).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<BaseLayout title="Blog" description="Writing on big data, AI, agents, and open source by Trista Pan.">
+  <div class="mx-auto max-w-content px-4 py-16 sm:px-6">
+    <header class="mb-10">
+      <h1 class="flex items-center gap-2.5 text-3xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100">
+        <span class="h-7 w-1.5 rounded-full bg-gradient-to-b from-accent to-violet-500" aria-hidden="true"></span>
+        Blog
+      </h1>
+      <p class="mt-2 text-neutral-600 dark:text-neutral-300">
+        Notes on big data, AI, agents, and open source.
+      </p>
+    </header>
+
+    {
+      posts.length === 0 ? (
+        <p class="text-neutral-500 dark:text-neutral-400">No posts yet — check back soon.</p>
+      ) : (
+        <ul class="space-y-4">
+          {posts.map((post) => (
+            <li>
+              <a
+                href={`/blog/${post.id}/`}
+                class="group card-lift block rounded-xl border border-neutral-200/80 bg-white/60 p-5 backdrop-blur-sm hover:border-accent/50 hover:bg-white dark:border-neutral-800/80 dark:bg-neutral-900/40 dark:hover:bg-neutral-900/70"
+              >
+                <time class="text-sm tabular-nums text-neutral-400 dark:text-neutral-500">
+                  {fmt(post.data.date)}
+                </time>
+                <h2 class="mt-1 text-lg font-semibold text-neutral-900 group-hover:text-accent dark:text-neutral-100">
+                  {post.data.title}
+                </h2>
+                {post.data.description && (
+                  <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">
+                    {post.data.description}
+                  </p>
+                )}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </div>
+</BaseLayout>

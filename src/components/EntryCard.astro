@@ -8,6 +8,7 @@ interface Props {
 const { entry } = Astro.props;
 
 const kindStyles: Record<Entry["kind"], string> = {
+  post: "bg-rose-50 text-rose-700 dark:bg-rose-950 dark:text-rose-300",
   publication: "bg-emerald-50 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300",
   article: "bg-sky-50 text-sky-700 dark:bg-sky-950 dark:text-sky-300",
   talk: "bg-violet-50 text-violet-700 dark:bg-violet-950 dark:text-violet-300",
@@ -17,11 +18,17 @@ const kindStyles: Record<Entry["kind"], string> = {
 
 const displayDate = entry.date.length === 4 ? entry.date : entry.date.slice(0, 7);
 const hasLink = Boolean(entry.url) && entry.url.length > 0 && !entry.promo;
+const isExternal = hasLink && /^https?:\/\//.test(entry.url);
 const Tag = hasLink ? "a" : "div";
+const linkAttrs = hasLink
+  ? isExternal
+    ? { href: entry.url, target: "_blank", rel: "noopener noreferrer" }
+    : { href: entry.url }
+  : {};
 ---
 
 <Tag
-  {...hasLink ? { href: entry.url, target: "_blank", rel: "noopener noreferrer" } : {}}
+  {...linkAttrs}
   class:list={[
     "group card-lift flex flex-col gap-1 rounded-xl border border-neutral-200/80 bg-white/60 p-4 backdrop-blur-sm dark:border-neutral-800/80 dark:bg-neutral-900/40",
     hasLink

@@ -30,7 +30,12 @@ function byPinnedThenDate(a: Entry, b: Entry): number {
 
 /** Substantial, readable/watchable items for the homepage feed. Pinned first, then newest. */
 export function featuredFeed(limit?: number): Entry[] {
-  const feed = allEntries.filter((e) => e.featured).sort(byPinnedThenDate);
+  return buildFeed([], limit);
+}
+
+/** Homepage feed merged with extra entries (e.g. native blog posts). Pinned first, then newest. */
+export function buildFeed(extra: Entry[] = [], limit?: number): Entry[] {
+  const feed = [...allEntries, ...extra].filter((e) => e.featured).sort(byPinnedThenDate);
   return typeof limit === "number" ? feed.slice(0, limit) : feed;
 }
 

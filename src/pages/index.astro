@@ -3,11 +3,14 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import EntryCard from "../components/EntryCard.astro";
 import SocialIcons from "../components/SocialIcons.astro";
 import { profile, site } from "../data/site";
-import { featuredFeed, byKind } from "../data/index";
+import { buildFeed, byKind } from "../data/index";
+import { getPostEntries } from "../data/posts";
 
-const feed = featuredFeed(14);
+const posts = await getPostEntries();
+const feed = buildFeed(posts, 14);
 
 const archiveSections = [
+  { emoji: "📝", label: "Blog", href: "/blog", count: posts.length, desc: "My own writing, hosted here." },
   { emoji: "📚", label: "Publications", href: "/archive#publications", count: byKind("publication").length, desc: "Peer-reviewed paper and book." },
   { emoji: "✍️", label: "Articles", href: "/archive#articles", count: byKind("article").length, desc: "Long-form writing on databases, big data & open source." },
   { emoji: "🗓️", label: "Activities", href: "/archive#activities", count: byKind("talk").length, desc: "Talks, panels & appearances, 2019–2026." },
@@ -65,7 +68,7 @@ const archiveSections = [
       </a>
     </div>
     <p class="mb-6 max-w-2xl text-sm text-neutral-500 dark:text-neutral-400">
-      Recent articles, talks, podcasts, and videos worth reading or watching — newest first.
+      Recent posts, articles, talks, podcasts, and videos worth reading or watching — newest first.
     </p>
     <div class="grid gap-3 sm:grid-cols-2">
       {feed.map((entry) => <EntryCard entry={entry} />)}

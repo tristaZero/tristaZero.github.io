@@ -1,4 +1,4 @@
-export type Kind = "publication" | "article" | "talk" | "podcast" | "video";
+export type Kind = "post" | "publication" | "article" | "talk" | "podcast" | "video";
 
 export type Entry = {
   title: string;
@@ -33,6 +33,7 @@ export function yearOf(date: string): string {
 }
 
 const KIND_LABELS: Record<Kind, string> = {
+  post: "Post",
   publication: "Publication",
   article: "Article",
   talk: "Activity",
